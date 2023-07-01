@@ -24,7 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "ISTD": 
         filters: ["infrared small target"]
-    "GNN-Segmentation":
+    "graph":
         filters: ["graph", "transformer", "segmentation"]
-    "TF-Segmentation":
+    "segmentation":
         filters: ["transformer", "segmentation"]
