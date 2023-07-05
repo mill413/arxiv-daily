@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.04
+## Updated on 2023.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2022-06-14**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[2206.06923](http://arxiv.org/abs/2206.06923)|**[link](https://github.com/chenastron/mtunet)**|
 |**2022-06-05**|**MPANet: Multi-Patch Attention For Infrared Small Target object Detection**|Ao Wang et.al.|[2206.02120](http://arxiv.org/abs/2206.02120)|null|
 
-<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
