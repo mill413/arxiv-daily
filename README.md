@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,13 +30,13 @@
 |**2022-06-14**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[2206.06923](http://arxiv.org/abs/2206.06923)|**[link](https://github.com/chenastron/mtunet)**|
 |**2022-06-05**|**MPANet: Multi-Patch Attention For Infrared Small Target object Detection**|Ao Wang et.al.|[2206.02120](http://arxiv.org/abs/2206.02120)|null|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 ## segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-01**|**Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation**|Qi Bi et.al.|[2307.00371](http://arxiv.org/abs/2307.00371)|null|
+|**2023-08-29**|**Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation**|Qi Bi et.al.|[2307.00371](http://arxiv.org/abs/2307.00371)|null|
 |**2022-10-13**|**ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation**|Zhendi Gong et.al.|[2210.07072](http://arxiv.org/abs/2210.07072)|null|
 |**2021-09-05**|**Right Ventricular Segmentation from Short- and Long-Axis MRIs via Information Transition**|Lei Li et.al.|[2109.02171](http://arxiv.org/abs/2109.02171)|**[link](https://github.com/nanyomy/mms-2)**|
 |**2021-09-22**|**Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation**|Cam Nguyen et.al.|[2108.11993](http://arxiv.org/abs/2108.11993)|null|
@@ -44,7 +44,7 @@
 |**2019-08-26**|**No Peeking through My Windows: Conserving Privacy in Personal Drones**|Alem Fitwi et.al.|[1908.09935](http://arxiv.org/abs/1908.09935)|null|
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
