@@ -37,6 +37,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Evaluation Kidney Layer Segmentation on Whole Slide Imaging using Convolutional Neural Networks and Transformers**|Muhao Liu et.al.|[2309.02563](http://arxiv.org/abs/2309.02563)|null|
 |**2023-08-29**|**Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation**|Qi Bi et.al.|[2307.00371](http://arxiv.org/abs/2307.00371)|null|
 |**2022-10-13**|**ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation**|Zhendi Gong et.al.|[2210.07072](http://arxiv.org/abs/2210.07072)|null|
 |**2021-09-05**|**Right Ventricular Segmentation from Short- and Long-Axis MRIs via Information Transition**|Lei Li et.al.|[2109.02171](http://arxiv.org/abs/2109.02171)|**[link](https://github.com/nanyomy/mms-2)**|
