@@ -12,7 +12,6 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  twitter: AlphaRealcat
   github: Linaom1214
 
 plugins:
