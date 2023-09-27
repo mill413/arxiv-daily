@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -31,6 +26,13 @@
 |**2023-04-15**|**CourtNet for Infrared Small-Target Detection**|Jingchao Peng et.al.|[2209.13780](http://arxiv.org/abs/2209.13780)|null|
 |**2022-06-14**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[2206.06923](http://arxiv.org/abs/2206.06923)|**[link](https://github.com/chenastron/mtunet)**|
 |**2022-06-05**|**MPANet: Multi-Patch Attention For Infrared Small Target object Detection**|Ao Wang et.al.|[2206.02120](http://arxiv.org/abs/2206.02120)|null|
+|**2022-05-26**|**PixelGame: Infrared small target segmentation as a Nash equilibrium**|Heng Zhou et.al.|[2205.13124](http://arxiv.org/abs/2205.13124)|null|
+|**2023-04-04**|**Local Motion and Contrast Priors Driven Deep Network for Infrared Small Target Super-Resolution**|Xinyi Ying et.al.|[2201.01014](http://arxiv.org/abs/2201.01014)|**[link](https://github.com/xinyiying/mocopnet)**|
+|**2021-11-05**|**AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection**|Tianfang Zhang et.al.|[2111.03580](http://arxiv.org/abs/2111.03580)|**[link](https://github.com/tianfang-zhang/agpcnet)**|
+|**2021-09-29**|**Local Patch Network with Global Attention for Infrared Small Target Detection**|Fang Chen et.al.|[2108.06054](http://arxiv.org/abs/2108.06054)|**[link](https://github.com/cquptimg/Local-Patch-Network-with-Global-Attention)**|
+|**2022-08-16**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[2106.00487](http://arxiv.org/abs/2106.00487)|**[link](https://github.com/YeRen123455/Infrared-Small-Target-Detection)**|
+|**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
+|**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
 
 <p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
@@ -48,13 +50,4 @@
 |**2008-05-16**|**Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**|Gregory Mendell et.al.|[0710.4362](http://arxiv.org/abs/0710.4362)|null|
 
 <p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
