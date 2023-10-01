@@ -1,4 +1,4 @@
-> Updated on 2023.09.30
+> Updated on 2023.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 - 2021-11-21, **Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**, Ting Liu et.al., Paper: [http://arxiv.org/abs/2105.14974](http://arxiv.org/abs/2105.14974), Code: **[https://github.com/LiuTing20a/ASTTV-NTLA](https://github.com/LiuTing20a/ASTTV-NTLA)**
 - 2020-12-15, **Attentional Local Contrast Networks for Infrared Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/2012.08573](http://arxiv.org/abs/2012.08573), Code: **[https://github.com/YimianDai/open-alcnet](https://github.com/YimianDai/open-alcnet)**
 
-<p align=right>(<a href=#updated-on-20230930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231001>back to top</a>)</p>
 
 ## segmentation
 
@@ -45,5 +45,5 @@
 - 2019-08-26, **No Peeking through My Windows: Conserving Privacy in Personal Drones**, Alem Fitwi et.al., Paper: [http://arxiv.org/abs/1908.09935](http://arxiv.org/abs/1908.09935)
 - 2008-05-16, **Using generalized PowerFlux methods to estimate the parameters of periodic gravitational waves**, Gregory Mendell et.al., Paper: [http://arxiv.org/abs/0710.4362](http://arxiv.org/abs/0710.4362)
 
-<p align=right>(<a href=#updated-on-20230930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231001>back to top</a>)</p>
 
