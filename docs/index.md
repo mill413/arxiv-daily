@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562](http://arxiv.org/abs/2310.12562)|null|
 |**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[2310.05347](http://arxiv.org/abs/2310.05347)|null|
 |**2023-09-24**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[2309.13646](http://arxiv.org/abs/2309.13646)|**[link](https://github.com/li-haoqing/ilnet)**|
 |**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[2309.01099](http://arxiv.org/abs/2309.01099)|null|
