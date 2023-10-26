@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Efficient GPU-accelerated fitting of observational health-scaled stratified and time-varying Cox models**|Jianxiao Yang et.al.|[2310.16238](http://arxiv.org/abs/2310.16238)|null|
 |**2023-09-05**|**Evaluation Kidney Layer Segmentation on Whole Slide Imaging using Convolutional Neural Networks and Transformers**|Muhao Liu et.al.|[2309.02563](http://arxiv.org/abs/2309.02563)|null|
 |**2023-08-29**|**Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation**|Qi Bi et.al.|[2307.00371](http://arxiv.org/abs/2307.00371)|null|
 |**2022-10-13**|**ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation**|Zhendi Gong et.al.|[2210.07072](http://arxiv.org/abs/2210.07072)|null|
