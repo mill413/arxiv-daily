@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|null|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917](http://arxiv.org/abs/2311.00917)|null|
 |**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562](http://arxiv.org/abs/2310.12562)|**[link](https://github.com/li-haoqing/com)**|
 |**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[2310.05347](http://arxiv.org/abs/2310.05347)|null|
