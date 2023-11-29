@@ -14,13 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121](http://arxiv.org/abs/2311.10121)|null|
 |**2023-11-15**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|null|
+|**2023-11-14**|**Modeling ionic flow between small targets: insights from diffusion and electro-diffusion theory**|Frédéric Paquin-Lefebvre et.al.|[2311.08169](http://arxiv.org/abs/2311.08169)|null|
+|**2023-11-14**|**Detection of Small Targets in Sea Clutter Based on RepVGG and Continuous Wavelet Transform**|Jingchen Ni et.al.|[2311.07912](http://arxiv.org/abs/2311.07912)|null|
+|**2023-11-22**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang et.al.|[2311.03561](http://arxiv.org/abs/2311.03561)|null|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917](http://arxiv.org/abs/2311.00917)|null|
+|**2023-10-27**|**DESiRED -- Dynamic, Enhanced, and Smart iRED: A P4-AQM with Deep Reinforcement Learning and In-band Network Telemetry**|Leandro C. de Almeida et.al.|[2310.18159](http://arxiv.org/abs/2310.18159)|null|
 |**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562](http://arxiv.org/abs/2310.12562)|**[link](https://github.com/li-haoqing/com)**|
+|**2023-10-16**|**Mask wearing object detection algorithm based on improved YOLOv5**|Peng Wen et.al.|[2310.10245](http://arxiv.org/abs/2310.10245)|null|
+|**2023-10-10**|**Fire Detection From Image and Video Using YOLOv5**|Arafat Islam et.al.|[2310.06351](http://arxiv.org/abs/2310.06351)|null|
 |**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[2310.05347](http://arxiv.org/abs/2310.05347)|null|
+|**2023-10-03**|**Improvement and Enhancement of YOLOv5 Small Target Recognition Based on Multi-module Optimization**|Qingyang Li et.al.|[2310.01806](http://arxiv.org/abs/2310.01806)|null|
+|**2023-10-05**|**Efficient Biologically Plausible Adversarial Training**|Matilde Tristany Farinha et.al.|[2309.17348](http://arxiv.org/abs/2309.17348)|null|
 |**2023-09-24**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[2309.13646](http://arxiv.org/abs/2309.13646)|**[link](https://github.com/li-haoqing/ilnet)**|
+|**2023-09-17**|**Deep Neighbor Layer Aggregation for Lightweight Self-Supervised Monocular Depth Estimation**|Boya Wang et.al.|[2309.09272](http://arxiv.org/abs/2309.09272)|null|
 |**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[2309.01099](http://arxiv.org/abs/2309.01099)|null|
 |**2023-07-27**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[2307.14723](http://arxiv.org/abs/2307.14723)|null|
+|**2023-07-12**|**First Hitting Time of a One-Dimensional Levy Flight to Small Targets**|Daniel Gomez et.al.|[2307.06274](http://arxiv.org/abs/2307.06274)|null|
+|**2023-07-04**|**Modelling small block aperture in an in-house developed GPU-accelerated Monte Carlo-based dose engine for pencil beam scanning proton therapy**|Hongying Feng et.al.|[2307.01416](http://arxiv.org/abs/2307.01416)|null|
+|**2023-05-26**|**Toward Understanding Display Size for FPS Esports Aiming**|Josef Spjut et.al.|[2305.16953](http://arxiv.org/abs/2305.16953)|null|
 |**2023-04-10**|**Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection**|Boyang Li et.al.|[2304.04442](http://arxiv.org/abs/2304.04442)|**[link](https://github.com/yeren123455/sirst-single-point-supervision)**|
 |**2023-04-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
 |**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
