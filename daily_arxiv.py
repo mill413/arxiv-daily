@@ -396,6 +396,10 @@ def demo(**config):
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
+
+        exist_ok(json_file)
+        exist_ok(md_file)
+
         # update paper links
         if config['update_paper_links']:
             update_paper_links(json_file)
@@ -410,6 +414,10 @@ def demo(**config):
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
+
+        exist_ok(json_file)
+        exist_ok(md_file)
+
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
@@ -423,6 +431,10 @@ def demo(**config):
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
+
+        exist_ok(json_file)
+        exist_ok(md_file)
+        
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
@@ -431,6 +443,11 @@ def demo(**config):
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
+def exist_ok(filePath:str):
+    if not os.path.exists(filePath):
+        with open(filePath,"w"):
+            pass
+    
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
