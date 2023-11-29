@@ -23,6 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "SOD": 
-        filters: ["small object"]
-    "segmentation":
-        filters: ["transformer segmentation"]
+        filters: ["small object detect"]
