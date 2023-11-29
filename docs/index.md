@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2023.11.29
-> Usage instructions: [here](./docs/README.md#usage)
+> Usage instructions: [here](./README.md#usage)
 
 ## SOD
 
