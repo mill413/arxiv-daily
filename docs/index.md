@@ -11,8 +11,8 @@ layout: default
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#sod>SOD"</a></li>
-    <li><a href="#attention-mechanism>Attention Mechanism"</a></li>
+    <li><a href="#sod">SOD</a></li>
+    <li><a href="#attention-mechanism">Attention Mechanism</a></li>
   </ol>
 </details>
 
