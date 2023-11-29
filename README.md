@@ -4,8 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2023.11.29
-> Usage instructions: [here](./docs/README.md#usage)
-
 <details>
   <summary>Table of Contents</summary>
   <ol>

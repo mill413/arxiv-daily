@@ -8,7 +8,13 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2023.11.29
-> Usage instructions: [here](./README.md#usage)
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#sod>SOD</a></li>
+    <li><a href=#attention-mechanism>Attention Mechanism</a></li>
+  </ol>
+</details>
 
 ## SOD
 
