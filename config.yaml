@@ -24,3 +24,5 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "SOD": 
         filters: ["small object detect", "sod"]
+    "Attention Mechanism"：
+        filters: ["Attention Mechanism"]
