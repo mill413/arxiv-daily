@@ -24,6 +24,8 @@
 |**2023-10-13**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768](http://arxiv.org/abs/2310.05768)|null|
 |**2023-11-09**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tang et.al.|[2309.16393](http://arxiv.org/abs/2309.16393)|**[link](https://github.com/Jacoo-ai/HIC-Yolov5)**|
 |**2023-09-27**|**Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps**|Vipin Gautam et.al.|[2309.15782](http://arxiv.org/abs/2309.15782)|null|
+|**2023-09-20**|**Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection**|Son The Nguyen et.al.|[2309.11069](http://arxiv.org/abs/2309.11069)|null|
+|**2023-09-10**|**Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art**|Aref Miri Rekavandi et.al.|[2309.04902](http://arxiv.org/abs/2309.04902)|**[link](https://github.com/arekavandi/transformer-sod)**|
 |**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534](http://arxiv.org/abs/2308.09534)|**[link](https://github.com/shaunyuan22/cfinet)**|
 |**2023-07-21**|**BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation**|Yosuke Shinya et.al.|[2307.11748](http://arxiv.org/abs/2307.11748)|**[link](https://github.com/shinya7y/UniverseNet)**|
 |**2023-07-17**|**Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime**|Pierre Le Jeune et.al.|[2307.09562](http://arxiv.org/abs/2307.09562)|null|
@@ -33,6 +35,7 @@
 |**2023-04-07**|**TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors**|Shaoyu Chen et.al.|[2304.03428](http://arxiv.org/abs/2304.03428)|null|
 |**2023-03-31**|**Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm**|Hongen Liu et.al.|[2304.00018](http://arxiv.org/abs/2304.00018)|null|
 |**2023-03-27**|**A novel Multi to Single Module for small object detection**|Xiaohui Guo et.al.|[2303.14977](http://arxiv.org/abs/2303.14977)|null|
+|**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747](http://arxiv.org/abs/2303.08747)|**[link](https://github.com/akhilpm/dronedetectron2)**|
 |**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
 |**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
 
