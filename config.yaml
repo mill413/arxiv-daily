@@ -22,9 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "ISTD": 
-        filters: ["small target"]
-    "graph":
-        filters: ["graph neural network transformer segmentation"]
+    "SOD": 
+        filters: ["small object"]
     "segmentation":
         filters: ["transformer segmentation"]
