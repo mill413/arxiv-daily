@@ -7,7 +7,7 @@
 
 ##
 
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
+This repository hosts the source code for cv-arxiv-daily, an useful scripts to fetch arxiv paper daily. 
 
 ## Overview
 
