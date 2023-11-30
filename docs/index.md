@@ -45,6 +45,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
+|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
+|**2023-11-29**|**Efficient Decoder for End-to-End Oriented Object Detection in Remote Sensing Images**|Jiaqi Zhao et.al.|[2311.17629](http://arxiv.org/abs/2311.17629)|null|
+|**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528](http://arxiv.org/abs/2311.17528)|null|
+|**2023-11-29**|**Enhancing Answer Selection in Community Question Answering with Pre-trained and Large Language Models**|Xinghang Hu et.al.|[2311.17502](http://arxiv.org/abs/2311.17502)|null|
+|**2023-11-29**|**Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification**|Seongho Keum et.al.|[2311.17466](http://arxiv.org/abs/2311.17466)|null|
+|**2023-11-29**|**Cross-Scope Spatial-Spectral Information Aggregation for Hyperspectral Image Super-Resolution**|Shi Chen et.al.|[2311.17340](http://arxiv.org/abs/2311.17340)|**[link](https://github.com/tomchenshi/cst)**|
+|**2023-11-28**|**SubZero: Subspace Zero-Shot MRI Reconstruction**|Heng Yu et.al.|[2311.17251](http://arxiv.org/abs/2311.17251)|**[link](https://github.com/heng14/subzero)**|
+|**2023-11-28**|**Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis**|Xiaohui Chen et.al.|[2311.17126](http://arxiv.org/abs/2311.17126)|null|
+|**2023-11-28**|**Single-Cell Clustering via Dual-Graph Alignment**|Dayu Hu et.al.|[2311.17104](http://arxiv.org/abs/2311.17104)|null|
+|**2023-11-28**|**CLiC: Concept Learning in Context**|Mehdi Safaee et.al.|[2311.17083](http://arxiv.org/abs/2311.17083)|null|
 |**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856](http://arxiv.org/abs/2311.16856)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-28**|**ContextSeg: Sketch Semantic Segmentation by Querying the Context with Attention**|Jiawei Wang et.al.|[2311.16682](http://arxiv.org/abs/2311.16682)|null|
