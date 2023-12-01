@@ -43,8 +43,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
-|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825](http://arxiv.org/abs/2311.18825)|**[link](https://github.com/khu-vll/cast)**|
+|**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664](http://arxiv.org/abs/2311.18664)|null|
+|**2023-11-30**|**CrimeGAT: Leveraging Graph Attention Networks for Enhanced Predictive Policing in Criminal Networks**|Chen Yang et.al.|[2311.18641](http://arxiv.org/abs/2311.18641)|null|
+|**2023-11-30**|**InfoFlowNet: A Multi-head Attention-based Self-supervised Learning Model with Surrogate Approach for Uncovering Brain Effective Connectivity**|Chun-Hsiang Chuang et.al.|[2311.18527](http://arxiv.org/abs/2311.18527)|null|
+|**2023-11-30**|**PAUNet: Precipitation Attention-based U-Net for rain prediction from satellite radiance data**|P. Jyoteeshkumar Reddy et.al.|[2311.18306](http://arxiv.org/abs/2311.18306)|null|
+|**2023-11-30**|**SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation**|Lingyi Hong et.al.|[2311.18286](http://arxiv.org/abs/2311.18286)|null|
+|**2023-11-30**|**Diffusion Models Without Attention**|Jing Nathan Yan et.al.|[2311.18257](http://arxiv.org/abs/2311.18257)|null|
+|**2023-11-29**|**Uncertainty Guided Global Memory Improves Multi-Hop Question Answering**|Alsu Sagirova et.al.|[2311.18151](http://arxiv.org/abs/2311.18151)|**[link](https://github.com/aloriosa/gemformer)**|
+|**2023-11-30**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|**[link](https://github.com/soumik-kanad/diffssl)**|
+|**2023-11-30**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross-Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
 |**2023-11-29**|**Efficient Decoder for End-to-End Oriented Object Detection in Remote Sensing Images**|Jiaqi Zhao et.al.|[2311.17629](http://arxiv.org/abs/2311.17629)|null|
 |**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528](http://arxiv.org/abs/2311.17528)|null|
 |**2023-11-29**|**Enhancing Answer Selection in Community Question Answering with Pre-trained and Large Language Models**|Xinghang Hu et.al.|[2311.17502](http://arxiv.org/abs/2311.17502)|null|
