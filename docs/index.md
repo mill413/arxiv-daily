@@ -13,6 +13,7 @@ layout: default
   <ol>
     <li><a href="#sod">SOD</a></li>
     <li><a href="#attention-mechanism">Attention Mechanism</a></li>
+    <li><a href="#background-subtraction">Background Subtraction</a></li>
   </ol>
 </details>
 
@@ -84,6 +85,31 @@ layout: default
 |**2023-11-24**|**Deciphering and integrating invariants for neural operator learning with various physical mechanisms**|Rui Zhang et.al.|[2311.14361](http://arxiv.org/abs/2311.14361)|null|
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
+
+## Background Subtraction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Spectral Background-Subtracted Activity Maps**|Carsten Denker et.al.|[2310.16747](http://arxiv.org/abs/2310.16747)|null|
+|**2023-11-10**|**Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter**|A. K. Yi et.al.|[2310.07967](http://arxiv.org/abs/2310.07967)|null|
+|**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842](http://arxiv.org/abs/2310.06842)|null|
+|**2023-09-27**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576](http://arxiv.org/abs/2309.15576)|null|
+|**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164](http://arxiv.org/abs/2309.08164)|null|
+|**2023-09-12**|**Reference Frames and Black Hole Thermodynamics**|Franco Fiorini et.al.|[2309.06293](http://arxiv.org/abs/2309.06293)|null|
+|**2023-08-02**|**Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
+|**2023-06-29**|**Effect of Background Signal on Momentum Imaging**|Sukanta Das et.al.|[2306.16708](http://arxiv.org/abs/2306.16708)|null|
+|**2023-06-06**|**Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments**|Alexander Men'shchikov et.al.|[2306.01563](http://arxiv.org/abs/2306.01563)|null|
+|**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
+|**2023-06-20**|**Awesome SOSS: Transmission Spectroscopy of WASP-96b with NIRISS/SOSS**|Michael Radica et.al.|[2305.17001](http://arxiv.org/abs/2305.17001)|null|
+|**2023-09-14**|**Localization under consistent assumptions over dynamics**|Matti Pekkanen et.al.|[2305.16702](http://arxiv.org/abs/2305.16702)|null|
+|**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
+|**2023-09-22**|**Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT**|NEXT Collaboration et.al.|[2305.09435](http://arxiv.org/abs/2305.09435)|null|
+|**2023-05-15**|**Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment**|Zahra Sattari et.al.|[2305.09021](http://arxiv.org/abs/2305.09021)|null|
+|**2023-04-25**|**General mass formula for charged Kerr-AdS black holes**|Yunjiao Gao et.al.|[2304.10290](http://arxiv.org/abs/2304.10290)|null|
+|**2023-04-02**|**Percolation-induced resistivity drop in cold-pressed LuH2**|Ningning Wang et.al.|[2304.00558](http://arxiv.org/abs/2304.00558)|null|
+|**2023-03-31**|**Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)**|A. T. Barnes et.al.|[2303.15499](http://arxiv.org/abs/2303.15499)|null|
+|**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
+|**2023-03-21**|**The Galactic TeV sky: sources or diffuse emission?**|Kathrin Egberts et.al.|[2303.11850](http://arxiv.org/abs/2303.11850)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
