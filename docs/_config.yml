@@ -5,13 +5,12 @@ description: 🎓Arxiv for Small Target Detection
 
 github_username:  mill413
 
-show_downloads: true
+# show_downloads: true
 
-github:
-  zip_url: https://github.com/mill413/cv-arxiv-daily
-  another_url: https://github.com/mill413/cv-arxiv-daily
+# github:
+#   zip_url: https://github.com/mill413/cv-arxiv-daily
+#   another_url: https://github.com/mill413/cv-arxiv-daily
 
-## add remote theme
 remote_theme: jekyll/minima@v2.5.1
 
 plugins:
