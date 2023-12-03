@@ -266,9 +266,7 @@ def json_to_md(filename,md_filename,
         ret += s[math_end:]
         return ret
   
-    DateNow = datetime.date.today()
-    DateNow = str(DateNow)
-    DateNow = DateNow.replace('-','.')
+    DateNow = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
     
     with open(filename,"r") as f:
         content = f.read()
