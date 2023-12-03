@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Updated on 2023/12/03 17:22:55
+> Updated on 2023/12/03 18:16:14
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -91,7 +92,7 @@ layout: default
 |**2023-09-27**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576](http://arxiv.org/abs/2309.15576)|null|
 |**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164](http://arxiv.org/abs/2309.08164)|null|
 |**2023-09-12**|**Reference Frames and Black Hole Thermodynamics**|Franco Fiorini et.al.|[2309.06293](http://arxiv.org/abs/2309.06293)|null|
-|**2023-08-02**|**Measurement of the $B_s^0 \to Î¼Î¼$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
+|**2023-08-02**|**Measurement of the $B_s^0 \to ¦Ì¦Ì$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
 |**2023-06-29**|**Effect of Background Signal on Momentum Imaging**|Sukanta Das et.al.|[2306.16708](http://arxiv.org/abs/2306.16708)|null|
 |**2023-06-06**|**Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments**|Alexander Men'shchikov et.al.|[2306.01563](http://arxiv.org/abs/2306.01563)|null|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|

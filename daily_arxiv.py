@@ -312,7 +312,7 @@ def json_to_md(filename, md_filename,
         #             "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
         #     f.write("## Updated on " + now + "\n")
         # else:
-        f.write("> Updated on " + now + "\n")
+        f.write("> Updated on " + now + "\n\n")
 
         # TODO: add usage
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
