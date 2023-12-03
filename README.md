@@ -1,4 +1,4 @@
-> Updated on 2023/12/03 18:55:42
+> Updated on 2023/12/03 18:58:51
 
 <details>
   <summary>Table of Contents</summary>
@@ -34,7 +34,7 @@
 |**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
 |**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/03-18:55:42>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/03-18:58:51>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -80,7 +80,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/03-18:55:42>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/03-18:58:51>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -92,7 +92,7 @@
 |**2023-09-27**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576](http://arxiv.org/abs/2309.15576)|null|
 |**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164](http://arxiv.org/abs/2309.08164)|null|
 |**2023-09-12**|**Reference Frames and Black Hole Thermodynamics**|Franco Fiorini et.al.|[2309.06293](http://arxiv.org/abs/2309.06293)|null|
-|**2023-08-02**|**Measurement of the $B_s^0 \to ¦Ì¦Ì$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
+|**2023-08-02**|**Measurement of the $B_s^0 \to Î¼Î¼$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
 |**2023-06-29**|**Effect of Background Signal on Momentum Imaging**|Sukanta Das et.al.|[2306.16708](http://arxiv.org/abs/2306.16708)|null|
 |**2023-06-06**|**Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments**|Alexander Men'shchikov et.al.|[2306.01563](http://arxiv.org/abs/2306.01563)|null|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
@@ -107,5 +107,5 @@
 |**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
 |**2023-03-21**|**The Galactic TeV sky: sources or diffuse emission?**|Kathrin Egberts et.al.|[2303.11850](http://arxiv.org/abs/2303.11850)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/03-18:55:42>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/03-18:58:51>back to top</a>)</p>
 
