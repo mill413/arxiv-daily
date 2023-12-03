@@ -12,7 +12,10 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: auto
 social_links:
-  github: mill413
+  - { platform: github,         user_url: "https://github.com/mill413" }
+author:
+  name: Mill Haruto
+  email: mill413@outlook.com
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
