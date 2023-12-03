@@ -60,7 +60,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
 
 def get_code_link(qword:str) -> str:
     """
