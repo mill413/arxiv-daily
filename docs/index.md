@@ -2,12 +2,7 @@
 layout: default
 ---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-## Updated on 2023.12.03
+## Updated on 2023/12/03 08:31:00
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -110,13 +105,4 @@ layout: default
 |**2023-03-31**|**Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)**|A. T. Barnes et.al.|[2303.15499](http://arxiv.org/abs/2303.15499)|null|
 |**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
 |**2023-03-21**|**The Galactic TeV sky: sources or diffuse emission?**|Kathrin Egberts et.al.|[2303.11850](http://arxiv.org/abs/2303.11850)|null|
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 

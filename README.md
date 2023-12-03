@@ -1,9 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-## Updated on 2023.12.03
+## Updated on 2023/12/03 08:31:00
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,7 +33,7 @@
 |**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
 |**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
 
-<p align=right>(<a href=#updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/03-08:31:00>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -84,7 +79,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/03-08:31:00>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -111,14 +106,5 @@
 |**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
 |**2023-03-21**|**The Galactic TeV sky: sources or diffuse emission?**|Kathrin Egberts et.al.|[2303.11850](http://arxiv.org/abs/2303.11850)|null|
 
-<p align=right>(<a href=#updated-on-20231203>back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+<p align=right>(<a href=#updated-on-2023/12/03-08:31:00>back to top</a>)</p>
 
