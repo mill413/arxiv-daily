@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/03 18:58:57
+> Updated on 2023/12/03 19:56:00
 
 <details>
   <summary>Table of Contents</summary>
@@ -37,6 +37,16 @@ layout: default
 |**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747](http://arxiv.org/abs/2303.08747)|**[link](https://github.com/akhilpm/dronedetectron2)**|
 |**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
 |**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
+|**2023-03-02**|**Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection**|Alina Ciocarlan et.al.|[2303.01363](http://arxiv.org/abs/2303.01363)|null|
+|**2023-03-08**|**Local Contrast and Global Contextual Information Make Infrared Small Object Salient Again**|Chenyi Wang et.al.|[2301.12093](http://arxiv.org/abs/2301.12093)|**[link](https://github.com/wcyjerry/UCFnet)**|
+|**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
+|**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
+|**2023-06-29**|**iSmallNet: Densely Nested Network with Label Decoupling for Infrared Small Target Detection**|Zhiheng Hu et.al.|[2210.16561](http://arxiv.org/abs/2210.16561)|null|
+|**2022-10-26**|**PSA-Det3D: Pillar Set Abstraction for 3D object Detection**|Zhicong Huang et.al.|[2210.10983](http://arxiv.org/abs/2210.10983)|null|
+|**2023-04-08**|**SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery**|Jiaqing Zhang et.al.|[2209.13351](http://arxiv.org/abs/2209.13351)|**[link](https://github.com/icey-zhang/SuperYOLO)**|
+|**2022-09-11**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796](http://arxiv.org/abs/2209.04796)|null|
+|**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
+|**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
 ## Attention Mechanism
 
@@ -106,4 +116,14 @@ layout: default
 |**2023-03-31**|**Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)**|A. T. Barnes et.al.|[2303.15499](http://arxiv.org/abs/2303.15499)|null|
 |**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
 |**2023-03-21**|**The Galactic TeV sky: sources or diffuse emission?**|Kathrin Egberts et.al.|[2303.11850](http://arxiv.org/abs/2303.11850)|null|
+|**2023-08-23**|**Interpretable Machine Learning Methods Applied to Jet Background Subtraction in Heavy Ion Collisions**|Tanner Mengel et.al.|[2303.08275](http://arxiv.org/abs/2303.08275)|null|
+|**2023-03-13**|**Constraining the Astrophysical p Process: Cross Section Measurement of the 84Kr(p,g)85Rb Reaction in Inverse Kinematics**|Alicia Palmisano-Kyle et.al.|[2303.07232](http://arxiv.org/abs/2303.07232)|null|
+|**2023-03-06**|**Weakly Supervised Realtime Dynamic Background Subtraction**|Fateme Bahri et.al.|[2303.02857](http://arxiv.org/abs/2303.02857)|null|
+|**2023-03-04**|**Real-Time Hand Gesture Identification in Thermal Images**|James Ballow et.al.|[2303.02321](http://arxiv.org/abs/2303.02321)|null|
+|**2023-05-19**|**In-orbit performance of LE onboard Insight-HXMT in the first 5 years**|Xiaobo Li et.al.|[2302.10714](http://arxiv.org/abs/2302.10714)|null|
+|**2023-02-16**|**Initial Fabrication and Characterization of Chemically-Etched Silicon Slits for KOSMOS**|Debby Tran et.al.|[2302.08552](http://arxiv.org/abs/2302.08552)|null|
+|**2023-02-07**|**NeSe: Near-Sensor Event-Driven Scheme for Low Power Energy Harvesting Sensors**|Sepehr Tabrizchi et.al.|[2302.05431](http://arxiv.org/abs/2302.05431)|null|
+|**2023-02-07**|**Quantifying high-dimensional spatial entanglement with a single-photon-sensitive time-stamping camera**|Baptiste Courme et.al.|[2302.03756](http://arxiv.org/abs/2302.03756)|null|
+|**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
+|**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
