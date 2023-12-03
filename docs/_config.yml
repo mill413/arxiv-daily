@@ -14,6 +14,10 @@ github:
 ## add remote theme
 remote_theme: jekyll/minima
 
+# minima:
+skin: auto
+
+
 plugins:
  - jekyll-remote-theme
  - jekyll-feed
