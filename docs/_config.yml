@@ -10,7 +10,7 @@ github:
 remote_theme: jekyll/minima@v2.5.1
 
 # minima:
-skin: dark
+skin: auto
 social_links:
   github: mill413
 
