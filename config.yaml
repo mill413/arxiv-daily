@@ -26,3 +26,5 @@ keywords:
         filters: ["small object detect", "sod"]
     "Attention Mechanism":
         filters: ["Attention Mechanism"]
+    "Background Substraction":
+        filters: ["Background Substraction"]
