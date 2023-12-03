@@ -1,11 +1,10 @@
-import os
 import re
 import json
 import arxiv
 import yaml
 import logging
 import argparse
-import datetime
+import datetime as dt
 import requests
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
@@ -266,7 +265,7 @@ def json_to_md(filename,md_filename,
         ret += s[math_end:]
         return ret
   
-    DateNow = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+    now = dt.datetime.utcnow().replace(tzinfo=dt.timezone.utc).astimezone(dt.timezone(dt.timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
     
     with open(filename,"r") as f:
         content = f.read()
@@ -294,9 +293,9 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
+            f.write("## Updated on " + now + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Updated on " + now + "\n")
 
         # TODO: add usage
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
@@ -340,7 +339,7 @@ def json_to_md(filename,md_filename,
             
             #Add: back to top
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
+                top_info = f"#Updated on {now}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
             
