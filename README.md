@@ -1,4 +1,4 @@
-> Updated on 2023/12/04 16:08:56
+> Updated on 2023/12/04 20:20:46
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,12 +44,20 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/04-16:08:56>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/04-20:20:46>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Contextualized word senses: from attention to compositionality**|Pablo Gamallo et.al.|[2312.00680](http://arxiv.org/abs/2312.00680)|null|
+|**2023-12-01**|**Nonparametric Variational Regularisation of Pretrained Transformers**|Fabio Fehr et.al.|[2312.00662](http://arxiv.org/abs/2312.00662)|null|
+|**2023-12-01**|**A Recent Survey of Vision Transformers for Medical Image Segmentation**|Asifullah Khan et.al.|[2312.00634](http://arxiv.org/abs/2312.00634)|null|
+|**2023-12-01**|**Enhancing Explainability in Mobility Data Science through a combination of methods**|Georgios Makridis et.al.|[2312.00380](http://arxiv.org/abs/2312.00380)|null|
+|**2023-12-01**|**Event-driven Real-time Retrieval in Web Search**|Nan Yang et.al.|[2312.00372](http://arxiv.org/abs/2312.00372)|null|
+|**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220](http://arxiv.org/abs/2312.00220)|null|
+|**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
+|**2023-11-30**|**HeTriNet: Heterogeneous Graph Triplet Attention Network for Drug-Target-Disease Interaction**|Farhan Tanvir et.al.|[2312.00189](http://arxiv.org/abs/2312.00189)|null|
 |**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825](http://arxiv.org/abs/2311.18825)|**[link](https://github.com/khu-vll/cast)**|
 |**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664](http://arxiv.org/abs/2311.18664)|null|
 |**2023-11-30**|**CrimeGAT: Leveraging Graph Attention Networks for Enhanced Predictive Policing in Criminal Networks**|Chen Yang et.al.|[2311.18641](http://arxiv.org/abs/2311.18641)|null|
@@ -90,7 +98,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/04-16:08:56>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/04-20:20:46>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -127,5 +135,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/04-16:08:56>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/04-20:20:46>back to top</a>)</p>
 
