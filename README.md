@@ -1,4 +1,4 @@
-> Updated on 2023/12/05 08:52:13
+> Updated on 2023/12/05 20:20:49
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,17 +44,31 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/05-08:52:13>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/05-20:20:49>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
+|**2023-12-04**|**PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916](http://arxiv.org/abs/2312.01916)|null|
+|**2023-12-04**|**Adapting Short-Term Transformers for Action Detection in Untrimmed Videos**|Min Yang et.al.|[2312.01897](http://arxiv.org/abs/2312.01897)|null|
+|**2023-12-04**|**Collaborative Neural Painting**|Nicola Dall'Asen et.al.|[2312.01800](http://arxiv.org/abs/2312.01800)|null|
+|**2023-12-04**|**EdgeConvFormer: Dynamic Graph CNN and Transformer based Anomaly Detection in Multivariate Time Series**|Jie Liu et.al.|[2312.01729](http://arxiv.org/abs/2312.01729)|null|
+|**2023-12-04**|**Rethinking Urban Mobility Prediction: A Super-Multivariate Time Series Forecasting Approach**|Jinguo Cheng et.al.|[2312.01699](http://arxiv.org/abs/2312.01699)|**[link](https://github.com/chengyui/sumformer)**|
+|**2023-12-04**|**Tab-Attention: Self-Attention-based Stacked Generalization for Imbalanced Credit Default Prediction**|Yandan Tan et.al.|[2312.01688](http://arxiv.org/abs/2312.01688)|null|
+|**2023-12-04**|**Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning**|Wei Chen et.al.|[2312.01601](http://arxiv.org/abs/2312.01601)|null|
+|**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
+|**2023-12-03**|**Few-shot Shape Recognition by Learning Deep Shape-aware Features**|Wenlong Shi et.al.|[2312.01315](http://arxiv.org/abs/2312.01315)|null|
+|**2023-12-02**|**A Comprehensive Study of Vision Transformers in Image Classification Tasks**|Mahmoud Khalil et.al.|[2312.01232](http://arxiv.org/abs/2312.01232)|null|
+|**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061](http://arxiv.org/abs/2312.01061)|null|
+|**2023-12-02**|**Token Fusion: Bridging the Gap between Token Pruning and Token Merging**|Minchul Kim et.al.|[2312.01026](http://arxiv.org/abs/2312.01026)|null|
+|**2023-12-02**|**Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning**|Xiaoyu Wang et.al.|[2312.01001](http://arxiv.org/abs/2312.01001)|null|
 |**2023-12-01**|**Contextualized word senses: from attention to compositionality**|Pablo Gamallo et.al.|[2312.00680](http://arxiv.org/abs/2312.00680)|null|
 |**2023-12-01**|**Nonparametric Variational Regularisation of Pretrained Transformers**|Fabio Fehr et.al.|[2312.00662](http://arxiv.org/abs/2312.00662)|null|
 |**2023-12-01**|**A Recent Survey of Vision Transformers for Medical Image Segmentation**|Asifullah Khan et.al.|[2312.00634](http://arxiv.org/abs/2312.00634)|null|
 |**2023-12-01**|**Enhancing Explainability in Mobility Data Science through a combination of methods**|Georgios Makridis et.al.|[2312.00380](http://arxiv.org/abs/2312.00380)|null|
-|**2023-12-01**|**Event-driven Real-time Retrieval in Web Search**|Nan Yang et.al.|[2312.00372](http://arxiv.org/abs/2312.00372)|null|
+|**2023-12-04**|**Event-driven Real-time Retrieval in Web Search**|Nan Yang et.al.|[2312.00372](http://arxiv.org/abs/2312.00372)|null|
 |**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220](http://arxiv.org/abs/2312.00220)|null|
 |**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207](http://arxiv.org/abs/2312.00207)|**[link](https://github.com/simula-complex/epitester)**|
 |**2023-11-30**|**HeTriNet: Heterogeneous Graph Triplet Attention Network for Drug-Target-Disease Interaction**|Farhan Tanvir et.al.|[2312.00189](http://arxiv.org/abs/2312.00189)|null|
@@ -98,12 +112,13 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/05-08:52:13>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/05-20:20:49>back to top</a>)</p>
 
 ## Background Subtraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-02**|**Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays**|Elena Fedorova et.al.|[2312.01174](http://arxiv.org/abs/2312.01174)|null|
 |**2023-10-25**|**Spectral Background-Subtracted Activity Maps**|Carsten Denker et.al.|[2310.16747](http://arxiv.org/abs/2310.16747)|null|
 |**2023-11-10**|**Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter**|A. K. Yi et.al.|[2310.07967](http://arxiv.org/abs/2310.07967)|null|
 |**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842](http://arxiv.org/abs/2310.06842)|null|
@@ -119,7 +134,7 @@
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-09-22**|**Demonstration of neutrinoless double beta decay searches in gaseous xenon with NEXT**|NEXT Collaboration et.al.|[2305.09435](http://arxiv.org/abs/2305.09435)|null|
 |**2023-05-15**|**Fraction of Clumpy Star-Forming Galaxies at $0.5\leq z\leq 3$ in UVCANDELS: Dependence on Stellar Mass and Environment**|Zahra Sattari et.al.|[2305.09021](http://arxiv.org/abs/2305.09021)|null|
-|**2023-04-25**|**General mass formula for charged Kerr-AdS black holes**|Yunjiao Gao et.al.|[2304.10290](http://arxiv.org/abs/2304.10290)|null|
+|**2023-12-04**|**General mass formulas for charged Kerr-AdS black holes**|Yunjiao Gao et.al.|[2304.10290](http://arxiv.org/abs/2304.10290)|null|
 |**2023-04-02**|**Percolation-induced resistivity drop in cold-pressed LuH2**|Ningning Wang et.al.|[2304.00558](http://arxiv.org/abs/2304.00558)|null|
 |**2023-03-31**|**Mother of Dragons: A Massive, quiescent core in the dragon cloud (IRDC G028.37+00.07)**|A. T. Barnes et.al.|[2303.15499](http://arxiv.org/abs/2303.15499)|null|
 |**2023-03-26**|**ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection**|Yongqi An et.al.|[2303.14679](http://arxiv.org/abs/2303.14679)|**[link](https://github.com/casia-iva-lab/zbs)**|
@@ -135,5 +150,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/05-08:52:13>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/05-20:20:49>back to top</a>)</p>
 
