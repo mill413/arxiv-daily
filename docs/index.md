@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/06 08:52:10
+> Updated on 2023/12/06 20:21:05
 
 <details>
   <summary>Table of Contents</summary>
@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Attention-enhanced neural differential equations for physics-informed deep learning of ion transport**|Danyal Rehman et.al.|[2312.02871](http://arxiv.org/abs/2312.02871)|null|
+|**2023-12-05**|**TPA3D: Triplane Attention for Fast Text-to-3D Generation**|Hong-En Chen et.al.|[2312.02647](http://arxiv.org/abs/2312.02647)|null|
+|**2023-12-05**|**DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding**|Thong Nguyen et.al.|[2312.02549](http://arxiv.org/abs/2312.02549)|null|
+|**2023-12-04**|**FaultFormer: Transformer-based Prediction of Bearing Faults**|Anthony Zhou et.al.|[2312.02380](http://arxiv.org/abs/2312.02380)|null|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
 |**2023-12-04**|**PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916](http://arxiv.org/abs/2312.01916)|null|
 |**2023-12-04**|**Adapting Short-Term Transformers for Action Detection in Untrimmed Videos**|Min Yang et.al.|[2312.01897](http://arxiv.org/abs/2312.01897)|null|
@@ -62,7 +66,7 @@ layout: default
 |**2023-12-04**|**Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning**|Wei Chen et.al.|[2312.01601](http://arxiv.org/abs/2312.01601)|null|
 |**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
 |**2023-12-03**|**Few-shot Shape Recognition by Learning Deep Shape-aware Features**|Wenlong Shi et.al.|[2312.01315](http://arxiv.org/abs/2312.01315)|null|
-|**2023-12-02**|**A Comprehensive Study of Vision Transformers in Image Classification Tasks**|Mahmoud Khalil et.al.|[2312.01232](http://arxiv.org/abs/2312.01232)|null|
+|**2023-12-05**|**A Comprehensive Study of Vision Transformers in Image Classification Tasks**|Mahmoud Khalil et.al.|[2312.01232](http://arxiv.org/abs/2312.01232)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061](http://arxiv.org/abs/2312.01061)|null|
 |**2023-12-02**|**Token Fusion: Bridging the Gap between Token Pruning and Token Merging**|Minchul Kim et.al.|[2312.01026](http://arxiv.org/abs/2312.01026)|null|
 |**2023-12-02**|**Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning**|Xiaoyu Wang et.al.|[2312.01001](http://arxiv.org/abs/2312.01001)|null|
@@ -118,14 +122,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Cable Slack Detection for Arresting Gear Application using Machine Vision**|Ari Goodman et.al.|[2312.02320](http://arxiv.org/abs/2312.02320)|null|
 |**2023-12-02**|**Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays**|Elena Fedorova et.al.|[2312.01174](http://arxiv.org/abs/2312.01174)|null|
 |**2023-10-25**|**Spectral Background-Subtracted Activity Maps**|Carsten Denker et.al.|[2310.16747](http://arxiv.org/abs/2310.16747)|null|
 |**2023-11-10**|**Analytical estimation of the signal to noise ratio efficiency in axion dark matter searches using a Savitzky-Golay filter**|A. K. Yi et.al.|[2310.07967](http://arxiv.org/abs/2310.07967)|null|
 |**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842](http://arxiv.org/abs/2310.06842)|null|
 |**2023-09-27**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576](http://arxiv.org/abs/2309.15576)|null|
 |**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164](http://arxiv.org/abs/2309.08164)|null|
-|**2023-09-12**|**Reference Frames and Black Hole Thermodynamics**|Franco Fiorini et.al.|[2309.06293](http://arxiv.org/abs/2309.06293)|null|
-|**2023-08-02**|**Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
+|**2023-12-05**|**Reference Frames and Black Hole Thermodynamics**|Franco Fiorini et.al.|[2309.06293](http://arxiv.org/abs/2309.06293)|null|
+|**2023-12-05**|**Measurement of the $B_s^0 \to μμ$ Effective Lifetime with the ATLAS Detector**|ATLAS Collaboration et.al.|[2308.01171](http://arxiv.org/abs/2308.01171)|null|
 |**2023-06-29**|**Effect of Background Signal on Momentum Imaging**|Sukanta Das et.al.|[2306.16708](http://arxiv.org/abs/2306.16708)|null|
 |**2023-06-06**|**Inaccuracies and biases of the Gaussian size deconvolution for extracted sources and filaments**|Alexander Men'shchikov et.al.|[2306.01563](http://arxiv.org/abs/2306.01563)|null|
 |**2023-05-29**|**Human Body Shape Classification Based on a Single Image**|Cameron Trotter et.al.|[2305.18480](http://arxiv.org/abs/2305.18480)|null|
