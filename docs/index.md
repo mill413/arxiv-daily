@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/07 08:51:26
+> Updated on 2023/12/07 20:20:42
 
 <details>
   <summary>Table of Contents</summary>
@@ -52,10 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
+|**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543](http://arxiv.org/abs/2312.03543)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
+|**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
 |**2023-12-05**|**Attention-enhanced neural differential equations for physics-informed deep learning of ion transport**|Danyal Rehman et.al.|[2312.02871](http://arxiv.org/abs/2312.02871)|null|
 |**2023-12-05**|**TPA3D: Triplane Attention for Fast Text-to-3D Generation**|Hong-En Chen et.al.|[2312.02647](http://arxiv.org/abs/2312.02647)|null|
 |**2023-12-05**|**DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding**|Thong Nguyen et.al.|[2312.02549](http://arxiv.org/abs/2312.02549)|null|
-|**2023-12-04**|**FaultFormer: Transformer-based Prediction of Bearing Faults**|Anthony Zhou et.al.|[2312.02380](http://arxiv.org/abs/2312.02380)|null|
+|**2023-12-04**|**FaultFormer: Transformer-based Prediction of Bearing Faults**|Anthony Zhou et.al.|[2312.02380](http://arxiv.org/abs/2312.02380)|**[link](https://github.com/anthonyzhou-1/faultformer)**|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
 |**2023-12-04**|**PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation**|Chunjing Gan et.al.|[2312.01916](http://arxiv.org/abs/2312.01916)|null|
 |**2023-12-04**|**Adapting Short-Term Transformers for Action Detection in Untrimmed Videos**|Min Yang et.al.|[2312.01897](http://arxiv.org/abs/2312.01897)|null|
