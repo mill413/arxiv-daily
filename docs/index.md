@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/08 08:51:54
+> Updated on 2023/12/08 20:20:18
 
 <details>
   <summary>Table of Contents</summary>
@@ -52,6 +52,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Mastering Complex Coordination through Attention-based Dynamic Graph**|Guangchong Zhou et.al.|[2312.04245](http://arxiv.org/abs/2312.04245)|null|
+|**2023-12-07**|**Graph Convolutions Enrich the Self-Attention in Transformers!**|Jeongwhan Choi et.al.|[2312.04234](http://arxiv.org/abs/2312.04234)|null|
+|**2023-12-07**|**Adventures of Trustworthy Vision-Language Models: A Survey**|Mayank Vatsa et.al.|[2312.04231](http://arxiv.org/abs/2312.04231)|null|
+|**2023-12-07**|**Joint-Individual Fusion Structure with Fusion Attention Module for Multi-Modal Skin Cancer Classification**|Peng Tang et.al.|[2312.04189](http://arxiv.org/abs/2312.04189)|null|
+|**2023-12-07**|**EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer**|Fei Wang et.al.|[2312.04152](http://arxiv.org/abs/2312.04152)|**[link](https://github.com/vut-hfut/eulermormer)**|
+|**2023-12-07**|**Joint Training or Not: An Exploration of Pre-trained Speech Models in Audio-Visual Speaker Diarization**|Huan Zhao et.al.|[2312.04131](http://arxiv.org/abs/2312.04131)|null|
 |**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
 |**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543](http://arxiv.org/abs/2312.03543)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
 |**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|

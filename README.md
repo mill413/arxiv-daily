@@ -1,4 +1,4 @@
-> Updated on 2023/12/08 08:51:54
+> Updated on 2023/12/08 20:20:18
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,12 +44,18 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/08-08:51:54>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/08-20:20:18>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Mastering Complex Coordination through Attention-based Dynamic Graph**|Guangchong Zhou et.al.|[2312.04245](http://arxiv.org/abs/2312.04245)|null|
+|**2023-12-07**|**Graph Convolutions Enrich the Self-Attention in Transformers!**|Jeongwhan Choi et.al.|[2312.04234](http://arxiv.org/abs/2312.04234)|null|
+|**2023-12-07**|**Adventures of Trustworthy Vision-Language Models: A Survey**|Mayank Vatsa et.al.|[2312.04231](http://arxiv.org/abs/2312.04231)|null|
+|**2023-12-07**|**Joint-Individual Fusion Structure with Fusion Attention Module for Multi-Modal Skin Cancer Classification**|Peng Tang et.al.|[2312.04189](http://arxiv.org/abs/2312.04189)|null|
+|**2023-12-07**|**EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer**|Fei Wang et.al.|[2312.04152](http://arxiv.org/abs/2312.04152)|**[link](https://github.com/vut-hfut/eulermormer)**|
+|**2023-12-07**|**Joint Training or Not: An Exploration of Pre-trained Speech Models in Audio-Visual Speaker Diarization**|Huan Zhao et.al.|[2312.04131](http://arxiv.org/abs/2312.04131)|null|
 |**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
 |**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543](http://arxiv.org/abs/2312.03543)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
 |**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
@@ -119,7 +125,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/08-08:51:54>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/08-20:20:18>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -158,5 +164,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/08-08:51:54>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/08-20:20:18>back to top</a>)</p>
 
