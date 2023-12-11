@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/11 16:09:35
+> Updated on 2023/12/11 20:21:37
 
 <details>
   <summary>Table of Contents</summary>
@@ -52,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
+|**2023-12-08**|**Attention-Guided Contrastive Role Representations for Multi-Agent Reinforcement Learning**|Zican Hu et.al.|[2312.04819](http://arxiv.org/abs/2312.04819)|null|
 |**2023-12-07**|**Mastering Complex Coordination through Attention-based Dynamic Graph**|Guangchong Zhou et.al.|[2312.04245](http://arxiv.org/abs/2312.04245)|null|
 |**2023-12-07**|**Graph Convolutions Enrich the Self-Attention in Transformers!**|Jeongwhan Choi et.al.|[2312.04234](http://arxiv.org/abs/2312.04234)|null|
 |**2023-12-07**|**Adventures of Trustworthy Vision-Language Models: A Survey**|Mayank Vatsa et.al.|[2312.04231](http://arxiv.org/abs/2312.04231)|null|
