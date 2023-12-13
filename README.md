@@ -1,4 +1,4 @@
-> Updated on 2023/12/13 08:51:24
+> Updated on 2023/12/13 20:20:34
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,12 +44,15 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/13-08:51:24>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/13-20:20:34>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Attention Based Encoder Decoder Model for Video Captioning in Nepali (2023)**|Kabita Parajuli et.al.|[2312.07418](http://arxiv.org/abs/2312.07418)|null|
+|**2023-12-11**|**Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting**|Yifan Zhang et.al.|[2312.06874](http://arxiv.org/abs/2312.06874)|null|
+|**2023-12-10**|**SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**|Zechuan Zhang et.al.|[2312.06704](http://arxiv.org/abs/2312.06704)|null|
 |**2023-12-11**|**ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation**|Ming Kang et.al.|[2312.06458](http://arxiv.org/abs/2312.06458)|**[link](https://github.com/mkang315/asf-yolo)**|
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
@@ -143,12 +146,14 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/13-08:51:24>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/13-20:20:34>back to top</a>)</p>
 
 ## Background Subtraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Are Solar Microflares more efficient in accelerating electrons when rooted near a Sunspot?**|Jonas Saqri et.al.|[2312.06856](http://arxiv.org/abs/2312.06856)|null|
+|**2023-12-11**|**Non-negative matrix factorization approach to sky subtraction for optical spectroscopy**|Fedor Kolganov et.al.|[2312.06761](http://arxiv.org/abs/2312.06761)|null|
 |**2023-12-04**|**Cable Slack Detection for Arresting Gear Application using Machine Vision**|Ari Goodman et.al.|[2312.02320](http://arxiv.org/abs/2312.02320)|null|
 |**2023-12-02**|**Separating the spectral counterparts in NGC 1275/Perseus cluster in X-rays**|Elena Fedorova et.al.|[2312.01174](http://arxiv.org/abs/2312.01174)|null|
 |**2023-10-25**|**Spectral Background-Subtracted Activity Maps**|Carsten Denker et.al.|[2310.16747](http://arxiv.org/abs/2310.16747)|null|
@@ -182,5 +187,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/13-08:51:24>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/13-20:20:34>back to top</a>)</p>
 
