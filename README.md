@@ -1,4 +1,4 @@
-> Updated on 2023/12/14 08:50:49
+> Updated on 2023/12/14 20:21:18
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,12 +44,16 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/14-08:50:49>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/14-20:21:18>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268](http://arxiv.org/abs/2312.08268)|null|
+|**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam et.al.|[2312.07979](http://arxiv.org/abs/2312.07979)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823](http://arxiv.org/abs/2312.07823)|null|
+|**2023-12-11**|**ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion**|Wenbin Guo et.al.|[2312.07589](http://arxiv.org/abs/2312.07589)|null|
 |**2023-12-12**|**Attention Based Encoder Decoder Model for Video Captioning in Nepali (2023)**|Kabita Parajuli et.al.|[2312.07418](http://arxiv.org/abs/2312.07418)|null|
 |**2023-12-11**|**Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting**|Yifan Zhang et.al.|[2312.06874](http://arxiv.org/abs/2312.06874)|null|
 |**2023-12-10**|**SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**|Zechuan Zhang et.al.|[2312.06704](http://arxiv.org/abs/2312.06704)|null|
@@ -63,14 +67,14 @@
 |**2023-12-10**|**TransGlow: Attention-augmented Transduction model based on Graph Neural Networks for Water Flow Forecasting**|Naghmeh Shafiee Roudbari et.al.|[2312.05961](http://arxiv.org/abs/2312.05961)|null|
 |**2023-12-10**|**Take an Irregular Route: Enhance the Decoder of Time-Series Forecasting Transformer**|Li Shen et.al.|[2312.05792](http://arxiv.org/abs/2312.05792)|**[link](https://github.com/origamisl/fppformer)**|
 |**2023-12-10**|**RepViT-SAM: Towards Real-Time Segmenting Anything**|Ao Wang et.al.|[2312.05760](http://arxiv.org/abs/2312.05760)|**[link](https://github.com/THU-MIG/RepViT)**|
-|**2023-12-10**|**MISCA: A Joint Model for Multiple Intent Detection and Slot Filling with Intent-Slot Co-Attention**|Thinh Pham et.al.|[2312.05741](http://arxiv.org/abs/2312.05741)|null|
+|**2023-12-10**|**MISCA: A Joint Model for Multiple Intent Detection and Slot Filling with Intent-Slot Co-Attention**|Thinh Pham et.al.|[2312.05741](http://arxiv.org/abs/2312.05741)|**[link](https://github.com/vinairesearch/misca)**|
 |**2023-12-10**|**AFL-Net: Integrating Audio, Facial, and Lip Modalities with Cross-Attention for Robust Speaker Diarization in the Wild**|Yongkang Yin et.al.|[2312.05730](http://arxiv.org/abs/2312.05730)|null|
 |**2023-12-10**|**Forecasting Lithium-Ion Battery Longevity with Limited Data Availability: Benchmarking Different Machine Learning Algorithms**|Hudson Hilal et.al.|[2312.05717](http://arxiv.org/abs/2312.05717)|null|
 |**2023-12-09**|**NiSNN-A: Non-iterative Spiking Neural Networks with Attention with Application to Motor Imagery EEG Classification**|Chuhan Zhang et.al.|[2312.05643](http://arxiv.org/abs/2312.05643)|null|
 |**2023-12-09**|**Keyword spotting -- Detecting commands in speech using deep learning**|Sumedha Rai et.al.|[2312.05640](http://arxiv.org/abs/2312.05640)|null|
 |**2023-12-09**|**Exploring Sparsity in Graph Transformers**|Chuang Liu et.al.|[2312.05479](http://arxiv.org/abs/2312.05479)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
-|**2023-12-08**|**Attention-Guided Contrastive Role Representations for Multi-Agent Reinforcement Learning**|Zican Hu et.al.|[2312.04819](http://arxiv.org/abs/2312.04819)|null|
+|**2023-12-08**|**Attention-Guided Contrastive Role Representations for Multi-Agent Reinforcement Learning**|Zican Hu et.al.|[2312.04819](http://arxiv.org/abs/2312.04819)|**[link](https://github.com/nju-rl/acorm)**|
 |**2023-12-07**|**Mastering Complex Coordination through Attention-based Dynamic Graph**|Guangchong Zhou et.al.|[2312.04245](http://arxiv.org/abs/2312.04245)|null|
 |**2023-12-07**|**Graph Convolutions Enrich the Self-Attention in Transformers!**|Jeongwhan Choi et.al.|[2312.04234](http://arxiv.org/abs/2312.04234)|null|
 |**2023-12-07**|**Adventures of Trustworthy Vision-Language Models: A Survey**|Mayank Vatsa et.al.|[2312.04231](http://arxiv.org/abs/2312.04231)|null|
@@ -146,7 +150,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/14-08:50:49>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/14-20:21:18>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -187,5 +191,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/14-08:50:49>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/14-20:21:18>back to top</a>)</p>
 
