@@ -1,4 +1,4 @@
-> Updated on 2023/12/15 08:52:12
+> Updated on 2023/12/15 20:20:22
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,12 +44,23 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/15-08:52:12>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
 
 ## Attention Mechanism
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**A Sparse Cross Attention-based Graph Convolution Network with Auxiliary Information Awareness for Traffic Flow Prediction**|Lingqiang Chen et.al.|[2312.09050](http://arxiv.org/abs/2312.09050)|null|
+|**2023-12-11**|**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer**|Jiwoo Chung et.al.|[2312.09008](http://arxiv.org/abs/2312.09008)|null|
+|**2023-12-14**|**OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers**|Han Liang et.al.|[2312.08985](http://arxiv.org/abs/2312.08985)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870](http://arxiv.org/abs/2312.08870)|null|
+|**2023-12-14**|**Knowledge-Driven Modulation of Neural Networks with Attention Mechanism for Next Activity Prediction**|Ivan Donadello et.al.|[2312.08847](http://arxiv.org/abs/2312.08847)|**[link](https://github.com/jonghyeonk/kb-modulation)**|
+|**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762](http://arxiv.org/abs/2312.08762)|null|
+|**2023-12-14**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|null|
+|**2023-12-14**|**Rational Sensibility: LLM Enhanced Empathetic Response Generation Guided by Self-presentation Theory**|Linzhuang Sun et.al.|[2312.08702](http://arxiv.org/abs/2312.08702)|null|
+|**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676](http://arxiv.org/abs/2312.08676)|null|
+|**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268](http://arxiv.org/abs/2312.08268)|null|
 |**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam et.al.|[2312.07979](http://arxiv.org/abs/2312.07979)|null|
 |**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823](http://arxiv.org/abs/2312.07823)|null|
@@ -150,12 +161,13 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/15-08:52:12>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
 
 ## Background Subtraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191](http://arxiv.org/abs/2312.09191)|null|
 |**2023-12-11**|**Are Solar Microflares more efficient in accelerating electrons when rooted near a Sunspot?**|Jonas Saqri et.al.|[2312.06856](http://arxiv.org/abs/2312.06856)|null|
 |**2023-12-11**|**Non-negative matrix factorization approach to sky subtraction for optical spectroscopy**|Fedor Kolganov et.al.|[2312.06761](http://arxiv.org/abs/2312.06761)|null|
 |**2023-12-04**|**Cable Slack Detection for Arresting Gear Application using Machine Vision**|Ari Goodman et.al.|[2312.02320](http://arxiv.org/abs/2312.02320)|null|
@@ -191,5 +203,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/15-08:52:12>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
 
