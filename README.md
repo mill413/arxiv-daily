@@ -1,4 +1,4 @@
-> Updated on 2023/12/15 20:20:22
+> Updated on 2023/12/16 08:50:26
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,7 +44,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/16-08:50:26>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -161,7 +161,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/16-08:50:26>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -203,5 +203,5 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/15-20:20:22>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/16-08:50:26>back to top</a>)</p>
 
