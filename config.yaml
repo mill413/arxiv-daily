@@ -22,9 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SOD": 
-        filters: ["small object detect", "sod"]
-    "Attention Mechanism":
+    "小目标": 
+        filters: ["small object detect", "sod", "tiny object detect", "tod"]
+    "注意力机制":
         filters: ["Attention Mechanism"]
     "Background Subtraction":
         filters: ["Background Subtraction"]
