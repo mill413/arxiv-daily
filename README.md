@@ -1,4 +1,4 @@
-> Updated on 2023/12/19 08:51:03
+> Updated on 2023/12/19 20:20:03
 
 <details>
   <summary>Table of Contents</summary>
@@ -6,6 +6,8 @@
     <li><a href="#sod">SOD</a></li>
     <li><a href="#attention-mechanism">Attention Mechanism</a></li>
     <li><a href="#background-subtraction">Background Subtraction</a></li>
+    <li><a href="#小目标">小目标</a></li>
+    <li><a href="#注意力机制">注意力机制</a></li>
   </ol>
 </details>
 
@@ -44,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/19-08:51:03>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/19-20:20:03>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -161,7 +163,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/19-08:51:03>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/19-20:20:03>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -203,5 +205,79 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/19-08:51:03>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/19-20:20:03>back to top</a>)</p>
+
+## 小目标
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-12-05**|**Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline**|Xiaoqi Zhao et.al.|[2312.02528](http://arxiv.org/abs/2312.02528)|null|
+|**2023-11-15**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955](http://arxiv.org/abs/2311.07955)|null|
+|**2023-11-13**|**Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications**|Liam Boyle et.al.|[2311.07163](http://arxiv.org/abs/2311.07163)|null|
+|**2023-11-08**|**S $^3$ AD: Semi-supervised Small Apple Detection in Orchard Environments**|Robert Johanson et.al.|[2311.05029](http://arxiv.org/abs/2311.05029)|null|
+|**2023-10-22**|**The Importance of Anti-Aliasing in Tiny Object Detection**|Jinlai Ning et.al.|[2310.14221](http://arxiv.org/abs/2310.14221)|**[link](https://github.com/freshn/anti-aliasing-tiny-object-detection)**|
+|**2023-10-13**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768](http://arxiv.org/abs/2310.05768)|null|
+|**2023-11-09**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tang et.al.|[2309.16393](http://arxiv.org/abs/2309.16393)|**[link](https://github.com/Jacoo-ai/HIC-Yolov5)**|
+|**2023-09-27**|**Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps**|Vipin Gautam et.al.|[2309.15782](http://arxiv.org/abs/2309.15782)|null|
+|**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264](http://arxiv.org/abs/2309.13264)|null|
+|**2023-09-20**|**Dynamic Tiling: A Model-Agnostic, Adaptive, Scalable, and Inference-Data-Centric Approach for Efficient and Accurate Small Object Detection**|Son The Nguyen et.al.|[2309.11069](http://arxiv.org/abs/2309.11069)|null|
+|**2023-09-13**|**Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances**|Xiangrong Zhang et.al.|[2309.06751](http://arxiv.org/abs/2309.06751)|null|
+|**2023-09-10**|**Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art**|Aref Miri Rekavandi et.al.|[2309.04902](http://arxiv.org/abs/2309.04902)|**[link](https://github.com/arekavandi/transformer-sod)**|
+|**2023-08-18**|**Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning**|Xiang Yuan et.al.|[2308.09534](http://arxiv.org/abs/2308.09534)|**[link](https://github.com/shaunyuan22/cfinet)**|
+|**2023-07-21**|**BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation**|Yosuke Shinya et.al.|[2307.11748](http://arxiv.org/abs/2307.11748)|**[link](https://github.com/shinya7y/UniverseNet)**|
+|**2023-07-17**|**Rethinking Intersection Over Union for Small Object Detection in Few-Shot Regime**|Pierre Le Jeune et.al.|[2307.09562](http://arxiv.org/abs/2307.09562)|null|
+|**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143](http://arxiv.org/abs/2307.09143)|**[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)**|
+|**2023-06-05**|**DSPDet3D: Dynamic Spatial Pruning for 3D Small Object Detection**|Xiuwei Xu et.al.|[2305.03716](http://arxiv.org/abs/2305.03716)|**[link](https://github.com/xuxw98/dspdet3d)**|
+|**2023-04-18**|**Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection**|Chang Xu et.al.|[2304.08876](http://arxiv.org/abs/2304.08876)|**[link](https://github.com/chasel-tsui/mmrotate-dcfl)**|
+|**2023-04-07**|**High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection**|Yifan Yin et.al.|[2304.03812](http://arxiv.org/abs/2304.03812)|null|
+|**2023-04-07**|**TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors**|Shaoyu Chen et.al.|[2304.03428](http://arxiv.org/abs/2304.03428)|null|
+|**2023-03-31**|**Video text tracking for dense and small text based on pp-yoloe-r and sort algorithm**|Hongen Liu et.al.|[2304.00018](http://arxiv.org/abs/2304.00018)|null|
+|**2023-03-27**|**A novel Multi to Single Module for small object detection**|Xiaohui Guo et.al.|[2303.14977](http://arxiv.org/abs/2303.14977)|null|
+|**2023-03-20**|**Rethinking the backbone architecture for tiny object detection**|Jinlai Ning et.al.|[2303.11267](http://arxiv.org/abs/2303.11267)|null|
+|**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747](http://arxiv.org/abs/2303.08747)|**[link](https://github.com/akhilpm/dronedetectron2)**|
+|**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041](http://arxiv.org/abs/2303.03041)|null|
+|**2023-03-03**|**Confidence-driven Bounding Box Localization for Small Object Detection**|Huixin Sun et.al.|[2303.01803](http://arxiv.org/abs/2303.01803)|null|
+|**2023-03-02**|**Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection**|Alina Ciocarlan et.al.|[2303.01363](http://arxiv.org/abs/2303.01363)|null|
+|**2023-03-08**|**Local Contrast and Global Contextual Information Make Infrared Small Object Salient Again**|Chenyi Wang et.al.|[2301.12093](http://arxiv.org/abs/2301.12093)|**[link](https://github.com/wcyjerry/UCFnet)**|
+|**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
+|**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
+
+<p align=right>(<a href=#updated-on-2023/12/19-20:20:03>back to top</a>)</p>
+
+## 注意力机制
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-17**|**Adversarially Balanced Representation for Continuous Treatment Effect Estimation**|Amirreza Kazemi et.al.|[2312.10570](http://arxiv.org/abs/2312.10570)|null|
+|**2023-12-16**|**Study of cognitive component of auditory attention to natural speech events**|Nhan D. T. Nguyen et.al.|[2312.10543](http://arxiv.org/abs/2312.10543)|null|
+|**2023-12-16**|**An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention**|Yehjin Shin et.al.|[2312.10325](http://arxiv.org/abs/2312.10325)|null|
+|**2023-12-16**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310](http://arxiv.org/abs/2312.10310)|null|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
+|**2023-12-15**|**Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2312.09750](http://arxiv.org/abs/2312.09750)|null|
+|**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
+|**2023-12-15**|**Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information**|Zhengyuan Liu et.al.|[2312.09541](http://arxiv.org/abs/2312.09541)|null|
+|**2023-12-15**|**Can Physician Judgment Enhance Model Trustworthiness? A Case Study on Predicting Pathological Lymph Nodes in Rectal Cancer**|Kazuma Kobayashi et.al.|[2312.09529](http://arxiv.org/abs/2312.09529)|null|
+|**2023-12-14**|**A Sparse Cross Attention-based Graph Convolution Network with Auxiliary Information Awareness for Traffic Flow Prediction**|Lingqiang Chen et.al.|[2312.09050](http://arxiv.org/abs/2312.09050)|null|
+|**2023-12-11**|**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer**|Jiwoo Chung et.al.|[2312.09008](http://arxiv.org/abs/2312.09008)|null|
+|**2023-12-18**|**OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers**|Han Liang et.al.|[2312.08985](http://arxiv.org/abs/2312.08985)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870](http://arxiv.org/abs/2312.08870)|null|
+|**2023-12-14**|**Knowledge-Driven Modulation of Neural Networks with Attention Mechanism for Next Activity Prediction**|Ivan Donadello et.al.|[2312.08847](http://arxiv.org/abs/2312.08847)|**[link](https://github.com/jonghyeonk/kb-modulation)**|
+|**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762](http://arxiv.org/abs/2312.08762)|null|
+|**2023-12-16**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|null|
+|**2023-12-15**|**Rational Sensibility: LLM Enhanced Empathetic Response Generation Guided by Self-presentation Theory**|Linzhuang Sun et.al.|[2312.08702](http://arxiv.org/abs/2312.08702)|null|
+|**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676](http://arxiv.org/abs/2312.08676)|null|
+|**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
+|**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268](http://arxiv.org/abs/2312.08268)|null|
+|**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam et.al.|[2312.07979](http://arxiv.org/abs/2312.07979)|null|
+|**2023-12-18**|**Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823](http://arxiv.org/abs/2312.07823)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
+|**2023-12-11**|**ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion**|Wenbin Guo et.al.|[2312.07589](http://arxiv.org/abs/2312.07589)|null|
+|**2023-12-12**|**Attention Based Encoder Decoder Model for Video Captioning in Nepali (2023)**|Kabita Parajuli et.al.|[2312.07418](http://arxiv.org/abs/2312.07418)|null|
+|**2023-12-11**|**Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting**|Yifan Zhang et.al.|[2312.06874](http://arxiv.org/abs/2312.06874)|null|
+|**2023-12-11**|**ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation**|Ming Kang et.al.|[2312.06458](http://arxiv.org/abs/2312.06458)|**[link](https://github.com/mkang315/asf-yolo)**|
+|**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
+|**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
+
+<p align=right>(<a href=#updated-on-2023/12/19-20:20:03>back to top</a>)</p>
 
