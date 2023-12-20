@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/19 20:20:03
+> Updated on 2023/12/20 08:41:00
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,11 +245,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
-|**2023-12-17**|**Adversarially Balanced Representation for Continuous Treatment Effect Estimation**|Amirreza Kazemi et.al.|[2312.10570](http://arxiv.org/abs/2312.10570)|null|
+|**2023-12-17**|**Adversarially Balanced Representation for Continuous Treatment Effect Estimation**|Amirreza Kazemi et.al.|[2312.10570](http://arxiv.org/abs/2312.10570)|**[link](https://github.com/amirrezakazemi/acfr)**|
 |**2023-12-16**|**Study of cognitive component of auditory attention to natural speech events**|Nhan D. T. Nguyen et.al.|[2312.10543](http://arxiv.org/abs/2312.10543)|null|
 |**2023-12-16**|**An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention**|Yehjin Shin et.al.|[2312.10325](http://arxiv.org/abs/2312.10325)|null|
 |**2023-12-16**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310](http://arxiv.org/abs/2312.10310)|null|
-|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-12-15**|**Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2312.09750](http://arxiv.org/abs/2312.09750)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
 |**2023-12-15**|**Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information**|Zhengyuan Liu et.al.|[2312.09541](http://arxiv.org/abs/2312.09541)|null|
