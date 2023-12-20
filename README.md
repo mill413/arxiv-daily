@@ -1,4 +1,4 @@
-> Updated on 2023/12/20 08:41:00
+> Updated on 2023/12/20 20:16:43
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/20-08:41:00>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/20-20:16:43>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,12 +163,13 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/20-08:41:00>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/20-20:16:43>back to top</a>)</p>
 
 ## Background Subtraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380](http://arxiv.org/abs/2312.12380)|null|
 |**2023-12-14**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191](http://arxiv.org/abs/2312.09191)|null|
 |**2023-12-11**|**Are Solar Microflares more efficient in accelerating electrons when rooted near a Sunspot?**|Jonas Saqri et.al.|[2312.06856](http://arxiv.org/abs/2312.06856)|null|
 |**2023-12-11**|**Non-negative matrix factorization approach to sky subtraction for optical spectroscopy**|Fedor Kolganov et.al.|[2312.06761](http://arxiv.org/abs/2312.06761)|null|
@@ -205,7 +206,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/20-08:41:00>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/20-20:16:43>back to top</a>)</p>
 
 ## 小目标
 
@@ -242,18 +243,31 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2023/12/20-08:41:00>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/20-20:16:43>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
+|**2023-12-19**|**Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment**|Hamza Mukhtar et.al.|[2312.11929](http://arxiv.org/abs/2312.11929)|null|
+|**2023-12-19**|**IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition**|Xiaomeng Yang et.al.|[2312.11923](http://arxiv.org/abs/2312.11923)|null|
+|**2023-12-19**|**Short-Term Multi-Horizon Line Loss Rate Forecasting of a Distribution Network Using Attention-GCN-LSTM**|Jie Liu et.al.|[2312.11898](http://arxiv.org/abs/2312.11898)|null|
+|**2023-12-18**|**Model Stealing Attack against Recommender System**|Zhihao Zhu et.al.|[2312.11571](http://arxiv.org/abs/2312.11571)|null|
+|**2023-12-18**|**Muted: Multilingual Targeted Offensive Speech Identification and Visualization**|Christoph Tillmann et.al.|[2312.11344](http://arxiv.org/abs/2312.11344)|null|
+|**2023-12-18**|**Global Feature Pyramid Network**|Weilin Xiao et.al.|[2312.11231](http://arxiv.org/abs/2312.11231)|null|
+|**2023-12-18**|**Linear Attention via Orthogonal Memory**|Jun Zhang et.al.|[2312.11135](http://arxiv.org/abs/2312.11135)|null|
+|**2023-12-18**|**Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition**|Xiao Wang et.al.|[2312.11128](http://arxiv.org/abs/2312.11128)|null|
+|**2023-12-18**|**Graph Transformers for Large Graphs**|Vijay Prakash Dwivedi et.al.|[2312.11109](http://arxiv.org/abs/2312.11109)|null|
+|**2023-12-18**|**Learning Top-k Subtask Planning Tree based on Discriminative Representation Pre-training for Decision Making**|Jingqing Ruan et.al.|[2312.11027](http://arxiv.org/abs/2312.11027)|null|
+|**2023-12-18**|**A Multimodal Approach for Advanced Pest Detection and Classification**|Jinli Duan et.al.|[2312.10948](http://arxiv.org/abs/2312.10948)|null|
+|**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-17**|**Adversarially Balanced Representation for Continuous Treatment Effect Estimation**|Amirreza Kazemi et.al.|[2312.10570](http://arxiv.org/abs/2312.10570)|**[link](https://github.com/amirrezakazemi/acfr)**|
-|**2023-12-16**|**Study of cognitive component of auditory attention to natural speech events**|Nhan D. T. Nguyen et.al.|[2312.10543](http://arxiv.org/abs/2312.10543)|null|
+|**2023-12-19**|**Study of cognitive component of auditory attention to natural speech events**|Nhan D. T. Nguyen et.al.|[2312.10543](http://arxiv.org/abs/2312.10543)|null|
 |**2023-12-16**|**An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention**|Yehjin Shin et.al.|[2312.10325](http://arxiv.org/abs/2312.10325)|null|
 |**2023-12-16**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310](http://arxiv.org/abs/2312.10310)|null|
-|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/Pointcept/Pointcept)**|
+|**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035](http://arxiv.org/abs/2312.10035)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-15**|**Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2312.09750](http://arxiv.org/abs/2312.09750)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
 |**2023-12-15**|**Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information**|Zhengyuan Liu et.al.|[2312.09541](http://arxiv.org/abs/2312.09541)|null|
@@ -279,5 +293,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/20-08:41:00>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/20-20:16:43>back to top</a>)</p>
 
