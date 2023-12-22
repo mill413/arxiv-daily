@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/22 08:50:10
+> Updated on 2023/12/22 20:19:58
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,6 +245,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
+|**2023-12-21**|**Exploiting Contextual Target Attributes for Target Sentiment Classification**|Bowen Xing et.al.|[2312.13766](http://arxiv.org/abs/2312.13766)|null|
+|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|null|
+|**2023-12-21**|**Self-supervised Complex Network for Machine Sound Anomaly Detection**|Miseul Kim et.al.|[2312.13615](http://arxiv.org/abs/2312.13615)|null|
 |**2023-12-20**|**FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning**|Ashish Seth et.al.|[2312.13026](http://arxiv.org/abs/2312.13026)|**[link](https://github.com/cs20s030/fusdom)**|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970](http://arxiv.org/abs/2312.12970)|null|
 |**2023-12-20**|**The Audio-Visual Conversational Graph: From an Egocentric-Exocentric Perspective**|Wenqi Jia et.al.|[2312.12870](http://arxiv.org/abs/2312.12870)|null|
