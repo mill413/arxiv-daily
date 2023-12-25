@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/25 16:09:08
+> Updated on 2023/12/25 20:19:45
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,6 +245,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[2312.14919](http://arxiv.org/abs/2312.14919)|null|
+|**2023-12-22**|**Understanding the Regularity of Self-Attention with Optimal Transport**|Valérie Castin et.al.|[2312.14820](http://arxiv.org/abs/2312.14820)|null|
+|**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667](http://arxiv.org/abs/2312.14667)|**[link](https://github.com/thuiar/TCL-MAP)**|
+|**2023-12-22**|**Global Occlusion-Aware Transformer for Robust Stereo Matching**|Zihua Liu et.al.|[2312.14650](http://arxiv.org/abs/2312.14650)|**[link](https://github.com/magicboomliu/goat)**|
+|**2023-12-22**|**ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration**|Fu-Jen Tsai et.al.|[2312.14502](http://arxiv.org/abs/2312.14502)|null|
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
 |**2023-12-21**|**Exploiting Contextual Target Attributes for Target Sentiment Classification**|Bowen Xing et.al.|[2312.13766](http://arxiv.org/abs/2312.13766)|null|
