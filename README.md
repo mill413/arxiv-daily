@@ -1,4 +1,4 @@
-> Updated on 2023/12/27 20:18:58
+> Updated on 2023/12/28 08:48:59
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/27-20:18:58>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/28-08:48:59>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,7 +163,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/27-20:18:58>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/28-08:48:59>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -206,7 +206,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/27-20:18:58>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/28-08:48:59>back to top</a>)</p>
 
 ## 小目标
 
@@ -243,13 +243,20 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2023/12/27-20:18:58>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/28-08:48:59>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[2312.14919](http://arxiv.org/abs/2312.14919)|null|
+|**2023-12-26**|**Geometric-Aware Low-Light Image and Video Enhancement via Depth Guidance**|Yingqi Lin et.al.|[2312.15855](http://arxiv.org/abs/2312.15855)|null|
+|**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
+|**2023-12-25**|**Context-aware Communication for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2312.15600](http://arxiv.org/abs/2312.15600)|null|
+|**2023-12-24**|**CARSS: Cooperative Attention-guided Reinforcement Subpath Synthesis for Solving Traveling Salesman Problem**|Yuchen Shi et.al.|[2312.15412](http://arxiv.org/abs/2312.15412)|null|
+|**2023-12-23**|**Human-Centric Resource Allocation for the Metaverse With Multiaccess Edge Computing**|Zijian Long et.al.|[2312.15313](http://arxiv.org/abs/2312.15313)|null|
+|**2023-12-23**|**Scale Optimization Using Evolutionary Reinforcement Learning for Object Detection on Drone Imagery**|Jialu Zhang et.al.|[2312.15219](http://arxiv.org/abs/2312.15219)|null|
+|**2023-12-23**|**Personalized Federated Learning with Attention-based Client Selection**|Zihan Chen et.al.|[2312.15148](http://arxiv.org/abs/2312.15148)|null|
+|**2023-12-26**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[2312.14919](http://arxiv.org/abs/2312.14919)|null|
 |**2023-12-22**|**Understanding the Regularity of Self-Attention with Optimal Transport**|Valérie Castin et.al.|[2312.14820](http://arxiv.org/abs/2312.14820)|null|
 |**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667](http://arxiv.org/abs/2312.14667)|**[link](https://github.com/thuiar/TCL-MAP)**|
 |**2023-12-22**|**Global Occlusion-Aware Transformer for Robust Stereo Matching**|Zihua Liu et.al.|[2312.14650](http://arxiv.org/abs/2312.14650)|**[link](https://github.com/magicboomliu/goat)**|
@@ -257,7 +264,7 @@
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157](http://arxiv.org/abs/2312.14157)|null|
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al.|[2312.14053](http://arxiv.org/abs/2312.14053)|**[link](https://github.com/rashaalshawi/dual-attention-u-net-with-feature-infusion-pushing-the-boundaries-of-multiclass-defect-segmentation)**|
 |**2023-12-21**|**Exploiting Contextual Target Attributes for Target Sentiment Classification**|Bowen Xing et.al.|[2312.13766](http://arxiv.org/abs/2312.13766)|null|
-|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
+|**2023-12-25**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
 |**2023-12-21**|**Self-supervised Complex Network for Machine Sound Anomaly Detection**|Miseul Kim et.al.|[2312.13615](http://arxiv.org/abs/2312.13615)|null|
 |**2023-12-20**|**FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning**|Ashish Seth et.al.|[2312.13026](http://arxiv.org/abs/2312.13026)|**[link](https://github.com/cs20s030/fusdom)**|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970](http://arxiv.org/abs/2312.12970)|null|
@@ -310,5 +317,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/27-20:18:58>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/28-08:48:59>back to top</a>)</p>
 
