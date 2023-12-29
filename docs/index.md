@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2023/12/29 08:40:36
+> Updated on 2023/12/29 20:17:53
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,6 +245,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction**|Olivier Moliner et.al.|[2312.17106](http://arxiv.org/abs/2312.17106)|null|
+|**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030](http://arxiv.org/abs/2312.17030)|null|
+|**2023-12-28**|**Res-Attn : An Enhanced Res-Tuning Approach with Lightweight Attention Mechanism**|Chaojie Mao et.al.|[2312.16916](http://arxiv.org/abs/2312.16916)|null|
+|**2023-12-28**|**VOT: Revolutionizing Speaker Verification with Memory and Attention Mechanisms**|Hongyu Wang et.al.|[2312.16826](http://arxiv.org/abs/2312.16826)|null|
+|**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
+|**2023-12-27**|**Attention-Enhanced Reservoir Computing**|Felix Köster et.al.|[2312.16503](http://arxiv.org/abs/2312.16503)|null|
 |**2023-12-26**|**Geometric-Aware Low-Light Image and Video Enhancement via Depth Guidance**|Yingqi Lin et.al.|[2312.15855](http://arxiv.org/abs/2312.15855)|null|
 |**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
 |**2023-12-25**|**Context-aware Communication for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2312.15600](http://arxiv.org/abs/2312.15600)|null|
