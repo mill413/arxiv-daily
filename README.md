@@ -1,4 +1,4 @@
-> Updated on 2023/12/29 20:17:53
+> Updated on 2023/12/30 08:48:46
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/29-20:17:53>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/30-08:48:46>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,7 +163,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2023/12/29-20:17:53>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/30-08:48:46>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -206,7 +206,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2023/12/29-20:17:53>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/30-08:48:46>back to top</a>)</p>
 
 ## 小目标
 
@@ -243,14 +243,14 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2023/12/29-20:17:53>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/30-08:48:46>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-28**|**Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction**|Olivier Moliner et.al.|[2312.17106](http://arxiv.org/abs/2312.17106)|null|
-|**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030](http://arxiv.org/abs/2312.17030)|null|
+|**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030](http://arxiv.org/abs/2312.17030)|**[link](https://github.com/jcruan519/mew-unet)**|
 |**2023-12-28**|**Res-Attn : An Enhanced Res-Tuning Approach with Lightweight Attention Mechanism**|Chaojie Mao et.al.|[2312.16916](http://arxiv.org/abs/2312.16916)|null|
 |**2023-12-28**|**VOT: Revolutionizing Speaker Verification with Memory and Attention Mechanisms**|Hongyu Wang et.al.|[2312.16826](http://arxiv.org/abs/2312.16826)|null|
 |**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
@@ -323,5 +323,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2023/12/29-20:17:53>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2023/12/30-08:48:46>back to top</a>)</p>
 
