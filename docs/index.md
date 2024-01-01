@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/01 16:09:25
+> Updated on 2024/01/01 20:19:56
 
 <details>
   <summary>Table of Contents</summary>
@@ -245,6 +245,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
+|**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446](http://arxiv.org/abs/2312.17446)|null|
+|**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
+|**2023-12-28**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353](http://arxiv.org/abs/2312.17353)|null|
 |**2023-12-28**|**Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction**|Olivier Moliner et.al.|[2312.17106](http://arxiv.org/abs/2312.17106)|null|
 |**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030](http://arxiv.org/abs/2312.17030)|**[link](https://github.com/jcruan519/mew-unet)**|
 |**2023-12-28**|**Res-Attn : An Enhanced Res-Tuning Approach with Lightweight Attention Mechanism**|Chaojie Mao et.al.|[2312.16916](http://arxiv.org/abs/2312.16916)|null|
