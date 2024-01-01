@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/01 08:55:54
+> Updated on 2024/01/01 16:09:25
 
 <details>
   <summary>Table of Contents</summary>
@@ -61,7 +61,7 @@ layout: default
 |**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870](http://arxiv.org/abs/2312.08870)|null|
 |**2023-12-14**|**Knowledge-Driven Modulation of Neural Networks with Attention Mechanism for Next Activity Prediction**|Ivan Donadello et.al.|[2312.08847](http://arxiv.org/abs/2312.08847)|**[link](https://github.com/jonghyeonk/kb-modulation)**|
 |**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762](http://arxiv.org/abs/2312.08762)|null|
-|**2023-12-14**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|null|
+|**2023-12-14**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|**[link](https://github.com/vinairesearch/jpis)**|
 |**2023-12-14**|**Rational Sensibility: LLM Enhanced Empathetic Response Generation Guided by Self-presentation Theory**|Linzhuang Sun et.al.|[2312.08702](http://arxiv.org/abs/2312.08702)|null|
 |**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676](http://arxiv.org/abs/2312.08676)|null|
 |**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
@@ -161,7 +161,7 @@ layout: default
 |**2023-11-25**|**Leveraging Neural Networks with Attention Mechanism for High-Order Accuracy in Charge Density in Particle-in-Cell Simulation**|Jian-Nan Chen et.al.|[2311.14972](http://arxiv.org/abs/2311.14972)|null|
 |**2023-11-28**|**Uncertainty Aware AI for 2D MRI Segmentation**|Lohith Konathala et.al.|[2311.14875](http://arxiv.org/abs/2311.14875)|null|
 |**2023-11-23**|**Attribute-Aware Representation Rectification for Generalized Zero-Shot Learning**|Zhijie Rao et.al.|[2311.14750](http://arxiv.org/abs/2311.14750)|null|
-|**2023-11-24**|**Deciphering and integrating invariants for neural operator learning with various physical mechanisms**|Rui Zhang et.al.|[2311.14361](http://arxiv.org/abs/2311.14361)|null|
+|**2023-11-24**|**Deciphering and integrating invariants for neural operator learning with various physical mechanisms**|Rui Zhang et.al.|[2311.14361](http://arxiv.org/abs/2311.14361)|**[link](https://github.com/optray/piano)**|
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
@@ -305,7 +305,7 @@ layout: default
 |**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870](http://arxiv.org/abs/2312.08870)|null|
 |**2023-12-14**|**Knowledge-Driven Modulation of Neural Networks with Attention Mechanism for Next Activity Prediction**|Ivan Donadello et.al.|[2312.08847](http://arxiv.org/abs/2312.08847)|**[link](https://github.com/jonghyeonk/kb-modulation)**|
 |**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762](http://arxiv.org/abs/2312.08762)|null|
-|**2023-12-16**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|null|
+|**2023-12-16**|**JPIS: A Joint Model for Profile-based Intent Detection and Slot Filling with Slot-to-Intent Attention**|Thinh Pham et.al.|[2312.08737](http://arxiv.org/abs/2312.08737)|**[link](https://github.com/vinairesearch/jpis)**|
 |**2023-12-15**|**Rational Sensibility: LLM Enhanced Empathetic Response Generation Guided by Self-presentation Theory**|Linzhuang Sun et.al.|[2312.08702](http://arxiv.org/abs/2312.08702)|null|
 |**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676](http://arxiv.org/abs/2312.08676)|null|
 |**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
