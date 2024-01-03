@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/03 08:51:15
+> Updated on 2024/01/03 20:20:09
 
 <details>
   <summary>Table of Contents</summary>
@@ -210,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Small Bird Detection using YOLOv7 with Test-Time Augmentation**|Kosuke Shigematsu et.al.|[2401.01018](http://arxiv.org/abs/2401.01018)|null|
 |**2023-12-05**|**Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline**|Xiaoqi Zhao et.al.|[2312.02528](http://arxiv.org/abs/2312.02528)|null|
 |**2023-11-15**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955](http://arxiv.org/abs/2311.07955)|null|
 |**2023-11-13**|**Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications**|Liam Boyle et.al.|[2311.07163](http://arxiv.org/abs/2311.07163)|null|
@@ -245,10 +246,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**YOLO algorithm with hybrid attention feature pyramid network for solder joint defect detection**|Li Ang et.al.|[2401.01214](http://arxiv.org/abs/2401.01214)|null|
+|**2024-01-02**|**AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis**|Qiuhui Chen et.al.|[2401.01074](http://arxiv.org/abs/2401.01074)|null|
+|**2024-01-02**|**Enhancing Automatic Modulation Recognition through Robust Global Feature Extraction**|Yunpeng Qu et.al.|[2401.01056](http://arxiv.org/abs/2401.01056)|null|
+|**2024-01-01**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
+|**2024-01-01**|**Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence**|Ruizhuo Xu et.al.|[2401.00921](http://arxiv.org/abs/2401.00921)|**[link](https://github.com/ruizhuo-xu/skeleton2vec)**|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|null|
+|**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908](http://arxiv.org/abs/2401.00908)|null|
+|**2024-01-01**|**Rethinking RAFT for Efficient Optical Flow**|Navid Eslami et.al.|[2401.00833](http://arxiv.org/abs/2401.00833)|**[link](https://github.com/n3slami/Ef-RAFT)**|
+|**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756](http://arxiv.org/abs/2401.00756)|null|
+|**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740](http://arxiv.org/abs/2401.00740)|null|
+|**2023-12-31**|**Brain Tumor Segmentation Based on Deep Learning, Attention Mechanisms, and Energy-Based Uncertainty Prediction**|Zachary Schwehr et.al.|[2401.00587](http://arxiv.org/abs/2401.00587)|**[link](https://github.com/wetothemoon/braintumorsegmentation)**|
+|**2023-12-31**|**Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches**|Junghoon Kim et.al.|[2401.00477](http://arxiv.org/abs/2401.00477)|null|
+|**2023-12-31**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
+|**2023-12-31**|**MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**|Wanlin Cai et.al.|[2401.00423](http://arxiv.org/abs/2401.00423)|null|
+|**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
 |**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446](http://arxiv.org/abs/2312.17446)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
-|**2023-12-28**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353](http://arxiv.org/abs/2312.17353)|null|
+|**2024-01-02**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353](http://arxiv.org/abs/2312.17353)|null|
 |**2023-12-28**|**Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction**|Olivier Moliner et.al.|[2312.17106](http://arxiv.org/abs/2312.17106)|null|
 |**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030](http://arxiv.org/abs/2312.17030)|**[link](https://github.com/jcruan519/mew-unet)**|
 |**2023-12-28**|**Res-Attn : An Enhanced Res-Tuning Approach with Lightweight Attention Mechanism**|Chaojie Mao et.al.|[2312.16916](http://arxiv.org/abs/2312.16916)|null|
