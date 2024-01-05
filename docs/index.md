@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/05 08:51:43
+> Updated on 2024/01/05 20:20:04
 
 <details>
   <summary>Table of Contents</summary>
@@ -246,6 +246,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258](http://arxiv.org/abs/2401.02258)|null|
+|**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
+|**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
+|**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
+|**2024-01-03**|**Tailor: Size Recommendations for High-End Fashion Marketplaces**|Alexandre Candeias et.al.|[2401.01978](http://arxiv.org/abs/2401.01978)|null|
 |**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
 |**2024-01-03**|**Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**|Dengdi Sun et.al.|[2401.01674](http://arxiv.org/abs/2401.01674)|null|
 |**2024-01-03**|**AttentionLut: Attention Fusion-based Canonical Polyadic LUT for Real-time Image Enhancement**|Kang Fu et.al.|[2401.01569](http://arxiv.org/abs/2401.01569)|null|
@@ -256,19 +263,19 @@ layout: default
 |**2024-01-02**|**YOLO algorithm with hybrid attention feature pyramid network for solder joint defect detection**|Li Ang et.al.|[2401.01214](http://arxiv.org/abs/2401.01214)|null|
 |**2024-01-02**|**AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis**|Qiuhui Chen et.al.|[2401.01074](http://arxiv.org/abs/2401.01074)|null|
 |**2024-01-02**|**Enhancing Automatic Modulation Recognition through Robust Global Feature Extraction**|Yunpeng Qu et.al.|[2401.01056](http://arxiv.org/abs/2401.01056)|null|
-|**2024-01-01**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
+|**2024-01-04**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
 |**2024-01-01**|**Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence**|Ruizhuo Xu et.al.|[2401.00921](http://arxiv.org/abs/2401.00921)|**[link](https://github.com/ruizhuo-xu/skeleton2vec)**|
-|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|null|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908](http://arxiv.org/abs/2401.00908)|null|
 |**2024-01-01**|**Rethinking RAFT for Efficient Optical Flow**|Navid Eslami et.al.|[2401.00833](http://arxiv.org/abs/2401.00833)|**[link](https://github.com/n3slami/Ef-RAFT)**|
 |**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756](http://arxiv.org/abs/2401.00756)|null|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740](http://arxiv.org/abs/2401.00740)|null|
 |**2023-12-31**|**Brain Tumor Segmentation Based on Deep Learning, Attention Mechanisms, and Energy-Based Uncertainty Prediction**|Zachary Schwehr et.al.|[2401.00587](http://arxiv.org/abs/2401.00587)|**[link](https://github.com/wetothemoon/braintumorsegmentation)**|
 |**2023-12-31**|**Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches**|Junghoon Kim et.al.|[2401.00477](http://arxiv.org/abs/2401.00477)|null|
-|**2023-12-31**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
-|**2023-12-31**|**MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**|Wanlin Cai et.al.|[2401.00423](http://arxiv.org/abs/2401.00423)|null|
+|**2024-01-04**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
+|**2023-12-31**|**MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**|Wanlin Cai et.al.|[2401.00423](http://arxiv.org/abs/2401.00423)|**[link](https://github.com/yozhibo/msgnet)**|
 |**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
-|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
+|**2024-01-04**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446](http://arxiv.org/abs/2312.17446)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
 |**2024-01-02**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353](http://arxiv.org/abs/2312.17353)|null|

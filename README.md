@@ -1,4 +1,4 @@
-> Updated on 2024/01/05 08:51:43
+> Updated on 2024/01/05 20:20:04
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/05-08:51:43>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/05-20:20:04>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,7 +163,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2024/01/05-08:51:43>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/05-20:20:04>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -206,7 +206,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2024/01/05-08:51:43>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/05-20:20:04>back to top</a>)</p>
 
 ## 小目标
 
@@ -244,12 +244,19 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2024/01/05-08:51:43>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/05-20:20:04>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258](http://arxiv.org/abs/2401.02258)|null|
+|**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
+|**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
+|**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
+|**2024-01-03**|**Tailor: Size Recommendations for High-End Fashion Marketplaces**|Alexandre Candeias et.al.|[2401.01978](http://arxiv.org/abs/2401.01978)|null|
 |**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750](http://arxiv.org/abs/2401.01750)|null|
 |**2024-01-03**|**Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**|Dengdi Sun et.al.|[2401.01674](http://arxiv.org/abs/2401.01674)|null|
 |**2024-01-03**|**AttentionLut: Attention Fusion-based Canonical Polyadic LUT for Real-time Image Enhancement**|Kang Fu et.al.|[2401.01569](http://arxiv.org/abs/2401.01569)|null|
@@ -260,19 +267,19 @@
 |**2024-01-02**|**YOLO algorithm with hybrid attention feature pyramid network for solder joint defect detection**|Li Ang et.al.|[2401.01214](http://arxiv.org/abs/2401.01214)|null|
 |**2024-01-02**|**AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis**|Qiuhui Chen et.al.|[2401.01074](http://arxiv.org/abs/2401.01074)|null|
 |**2024-01-02**|**Enhancing Automatic Modulation Recognition through Robust Global Feature Extraction**|Yunpeng Qu et.al.|[2401.01056](http://arxiv.org/abs/2401.01056)|null|
-|**2024-01-01**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
+|**2024-01-04**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
 |**2024-01-01**|**Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence**|Ruizhuo Xu et.al.|[2401.00921](http://arxiv.org/abs/2401.00921)|**[link](https://github.com/ruizhuo-xu/skeleton2vec)**|
-|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|null|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912](http://arxiv.org/abs/2401.00912)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2023-12-31**|**DocLLM: A layout-aware generative language model for multimodal document understanding**|Dongsheng Wang et.al.|[2401.00908](http://arxiv.org/abs/2401.00908)|null|
 |**2024-01-01**|**Rethinking RAFT for Efficient Optical Flow**|Navid Eslami et.al.|[2401.00833](http://arxiv.org/abs/2401.00833)|**[link](https://github.com/n3slami/Ef-RAFT)**|
 |**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756](http://arxiv.org/abs/2401.00756)|null|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740](http://arxiv.org/abs/2401.00740)|null|
 |**2023-12-31**|**Brain Tumor Segmentation Based on Deep Learning, Attention Mechanisms, and Energy-Based Uncertainty Prediction**|Zachary Schwehr et.al.|[2401.00587](http://arxiv.org/abs/2401.00587)|**[link](https://github.com/wetothemoon/braintumorsegmentation)**|
 |**2023-12-31**|**Coding for Gaussian Two-Way Channels: Linear and Learning-Based Approaches**|Junghoon Kim et.al.|[2401.00477](http://arxiv.org/abs/2401.00477)|null|
-|**2023-12-31**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
-|**2023-12-31**|**MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**|Wanlin Cai et.al.|[2401.00423](http://arxiv.org/abs/2401.00423)|null|
+|**2024-01-04**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
+|**2023-12-31**|**MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting**|Wanlin Cai et.al.|[2401.00423](http://arxiv.org/abs/2401.00423)|**[link](https://github.com/yozhibo/msgnet)**|
 |**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
-|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
+|**2024-01-04**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446](http://arxiv.org/abs/2312.17446)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
 |**2024-01-02**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353](http://arxiv.org/abs/2312.17353)|null|
@@ -350,5 +357,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/05-08:51:43>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/05-20:20:04>back to top</a>)</p>
 
