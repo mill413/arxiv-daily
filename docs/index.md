@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/10 20:20:44
+> Updated on 2024/01/11 08:52:10
 
 <details>
   <summary>Table of Contents</summary>
@@ -248,6 +248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**Gramformer: Learning Crowd Counting via Graph-Modulated Transformer**|Hui Lin et.al.|[2401.03870](http://arxiv.org/abs/2401.03870)|**[link](https://github.com/LoraLinH/Gramformer)**|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
