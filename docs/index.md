@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/11 08:52:10
+> Updated on 2024/01/11 20:20:43
 
 <details>
   <summary>Table of Contents</summary>
@@ -248,6 +248,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubinski et.al.|[2401.05167](http://arxiv.org/abs/2401.05167)|null|
+|**2024-01-10**|**EmMixformer: Mix transformer for eye movement recognition**|Huafeng Qin et.al.|[2401.04956](http://arxiv.org/abs/2401.04956)|null|
+|**2024-01-10**|**Deep Learning Based Resource Allocation for Full-duplex Device-to-Device Communication**|Xinxin Zhang et.al.|[2401.04906](http://arxiv.org/abs/2401.04906)|null|
+|**2024-01-10**|**SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation**|Mengmeng Zhang et.al.|[2401.04900](http://arxiv.org/abs/2401.04900)|null|
+|**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872](http://arxiv.org/abs/2401.04872)|null|
+|**2024-01-09**|**T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge**|Mauro Belgiovine et.al.|[2401.04837](http://arxiv.org/abs/2401.04837)|**[link](https://github.com/genesys-neu/t-prime)**|
+|**2024-01-09**|**Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System**|Galib Muhammad Shahriar Himel et.al.|[2401.04746](http://arxiv.org/abs/2401.04746)|null|
 |**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**Gramformer: Learning Crowd Counting via Graph-Modulated Transformer**|Hui Lin et.al.|[2401.03870](http://arxiv.org/abs/2401.03870)|**[link](https://github.com/LoraLinH/Gramformer)**|
@@ -256,7 +263,7 @@ layout: default
 |**2024-01-06**|**MetaISP -- Exploiting Global Scene Structure for Accurate Multi-Device Color Rendition**|Matheus Souza et.al.|[2401.03220](http://arxiv.org/abs/2401.03220)|**[link](https://github.com/vccimaging/MetaISP)**|
 |**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831](http://arxiv.org/abs/2401.02831)|null|
-|**2024-01-05**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771](http://arxiv.org/abs/2401.02771)|null|
+|**2024-01-10**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771](http://arxiv.org/abs/2401.02771)|null|
 |**2024-01-05**|**MAMI: Multi-Attentional Mutual-Information for Long Sequence Neuron Captioning**|Alfirsa Damasyifa Fauzulhaq et.al.|[2401.02744](http://arxiv.org/abs/2401.02744)|null|
 |**2024-01-05**|**A Cost-Efficient FPGA Implementation of Tiny Transformer Model using Neural ODE**|Ikumi Okubo et.al.|[2401.02721](http://arxiv.org/abs/2401.02721)|null|
 |**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
