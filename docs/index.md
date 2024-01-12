@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/12 08:52:38
+> Updated on 2024/01/12 20:20:33
 
 <details>
   <summary>Table of Contents</summary>
@@ -169,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction**|Andrea Ramos et.al.|[2401.05763](http://arxiv.org/abs/2401.05763)|null|
 |**2024-01-05**|**Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning**|Geoffery Agorku et.al.|[2401.03070](http://arxiv.org/abs/2401.03070)|null|
 |**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380](http://arxiv.org/abs/2312.12380)|null|
 |**2024-01-08**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191](http://arxiv.org/abs/2312.09191)|**[link](https://github.com/devansh-dvj/suryadrishti)**|
@@ -248,7 +249,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-10**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubinski et.al.|[2401.05167](http://arxiv.org/abs/2401.05167)|null|
+|**2024-01-11**|**Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation**|Yicong Li et.al.|[2401.05744](http://arxiv.org/abs/2401.05744)|null|
+|**2024-01-11**|**LKCA: Large Kernel Convolutional Attention**|Chenghao Li et.al.|[2401.05738](http://arxiv.org/abs/2401.05738)|null|
+|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633](http://arxiv.org/abs/2401.05633)|**[link](https://github.com/aitical/cfsr)**|
+|**2024-01-11**|**Self-Attention and Hybrid Features for Replay and Deep-Fake Audio Detection**|Lian Huang et.al.|[2401.05614](http://arxiv.org/abs/2401.05614)|null|
+|**2024-01-10**|**CodePrompt: Improving Source Code-Related Classification with Knowledge Features through Prompt Learning**|Yong Ma et.al.|[2401.05544](http://arxiv.org/abs/2401.05544)|null|
+|**2024-01-11**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubiński et.al.|[2401.05167](http://arxiv.org/abs/2401.05167)|null|
 |**2024-01-10**|**EmMixformer: Mix transformer for eye movement recognition**|Huafeng Qin et.al.|[2401.04956](http://arxiv.org/abs/2401.04956)|null|
 |**2024-01-10**|**Deep Learning Based Resource Allocation for Full-duplex Device-to-Device Communication**|Xinxin Zhang et.al.|[2401.04906](http://arxiv.org/abs/2401.04906)|null|
 |**2024-01-10**|**SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation**|Mengmeng Zhang et.al.|[2401.04900](http://arxiv.org/abs/2401.04900)|null|
@@ -269,7 +275,7 @@ layout: default
 |**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258](http://arxiv.org/abs/2401.02258)|null|
-|**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
+|**2024-01-11**|**Spectral-based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2024-01-03**|**Tailor: Size Recommendations for High-End Fashion Marketplaces**|Alexandre Candeias et.al.|[2401.01978](http://arxiv.org/abs/2401.01978)|null|

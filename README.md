@@ -1,4 +1,4 @@
-> Updated on 2024/01/12 08:52:38
+> Updated on 2024/01/12 20:20:33
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/12-08:52:38>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/12-20:20:33>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,12 +163,13 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2024/01/12-08:52:38>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/12-20:20:33>back to top</a>)</p>
 
 ## Background Subtraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction**|Andrea Ramos et.al.|[2401.05763](http://arxiv.org/abs/2401.05763)|null|
 |**2024-01-05**|**Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning**|Geoffery Agorku et.al.|[2401.03070](http://arxiv.org/abs/2401.03070)|null|
 |**2023-12-19**|**The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters**|Adit H. Edward et.al.|[2312.12380](http://arxiv.org/abs/2312.12380)|null|
 |**2024-01-08**|**Solar flare catalog from 3 years of Chandrayaan-2 XSM observations**|Aravind Bharathi Valluvan et.al.|[2312.09191](http://arxiv.org/abs/2312.09191)|**[link](https://github.com/devansh-dvj/suryadrishti)**|
@@ -207,7 +208,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2024/01/12-08:52:38>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/12-20:20:33>back to top</a>)</p>
 
 ## 小目标
 
@@ -246,13 +247,18 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2024/01/12-08:52:38>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/12-20:20:33>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-10**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubinski et.al.|[2401.05167](http://arxiv.org/abs/2401.05167)|null|
+|**2024-01-11**|**Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation**|Yicong Li et.al.|[2401.05744](http://arxiv.org/abs/2401.05744)|null|
+|**2024-01-11**|**LKCA: Large Kernel Convolutional Attention**|Chenghao Li et.al.|[2401.05738](http://arxiv.org/abs/2401.05738)|null|
+|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633](http://arxiv.org/abs/2401.05633)|**[link](https://github.com/aitical/cfsr)**|
+|**2024-01-11**|**Self-Attention and Hybrid Features for Replay and Deep-Fake Audio Detection**|Lian Huang et.al.|[2401.05614](http://arxiv.org/abs/2401.05614)|null|
+|**2024-01-10**|**CodePrompt: Improving Source Code-Related Classification with Knowledge Features through Prompt Learning**|Yong Ma et.al.|[2401.05544](http://arxiv.org/abs/2401.05544)|null|
+|**2024-01-11**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubiński et.al.|[2401.05167](http://arxiv.org/abs/2401.05167)|null|
 |**2024-01-10**|**EmMixformer: Mix transformer for eye movement recognition**|Huafeng Qin et.al.|[2401.04956](http://arxiv.org/abs/2401.04956)|null|
 |**2024-01-10**|**Deep Learning Based Resource Allocation for Full-duplex Device-to-Device Communication**|Xinxin Zhang et.al.|[2401.04906](http://arxiv.org/abs/2401.04906)|null|
 |**2024-01-10**|**SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation**|Mengmeng Zhang et.al.|[2401.04900](http://arxiv.org/abs/2401.04900)|null|
@@ -273,7 +279,7 @@
 |**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292](http://arxiv.org/abs/2401.02292)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258](http://arxiv.org/abs/2401.02258)|null|
-|**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
+|**2024-01-11**|**Spectral-based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130](http://arxiv.org/abs/2401.02130)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2024-01-03**|**Tailor: Size Recommendations for High-End Fashion Marketplaces**|Alexandre Candeias et.al.|[2401.01978](http://arxiv.org/abs/2401.01978)|null|
@@ -377,5 +383,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/12-08:52:38>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/12-20:20:33>back to top</a>)</p>
 
