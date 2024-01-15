@@ -1,4 +1,4 @@
-> Updated on 2024/01/15 16:09:31
+> Updated on 2024/01/15 20:21:16
 
 <details>
   <summary>Table of Contents</summary>
@@ -46,7 +46,7 @@
 |**2023-10-31**|**Progressive Domain Adaptation with Contrastive Learning for Object Detection in the Satellite Imagery**|Debojyoti Biswas et.al.|[2209.02564](http://arxiv.org/abs/2209.02564)|null|
 |**2022-09-01**|**Fast Fourier Convolution Based Remote Sensor Image Object Detection for Earth Observation**|Gu Lingyun et.al.|[2209.00551](http://arxiv.org/abs/2209.00551)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/15-16:09:31>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/15-20:21:16>back to top</a>)</p>
 
 ## Attention Mechanism
 
@@ -163,7 +163,7 @@
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332](http://arxiv.org/abs/2311.14332)|null|
 |**2023-11-23**|**HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding**|Peng Xia et.al.|[2311.14064](http://arxiv.org/abs/2311.14064)|**[link](https://github.com/richard-peng-xia/HGCLIP)**|
 
-<p align=right>(<a href=#updated-on-2024/01/15-16:09:31>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/15-20:21:16>back to top</a>)</p>
 
 ## Background Subtraction
 
@@ -208,7 +208,7 @@
 |**2023-10-31**|**Real-Time Traffic End-of-Queue Detection and Tracking in UAV Video**|Russ Messenger et.al.|[2302.01923](http://arxiv.org/abs/2302.01923)|null|
 |**2023-06-05**|**The GLASS-JWST Early Release Science Program. II. Stage I release of NIRCam imaging and catalogs in the Abell 2744 region**|Diego Paris et.al.|[2301.02179](http://arxiv.org/abs/2301.02179)|**[link](https://github.com/diegoparis10/denoise_nircam)**|
 
-<p align=right>(<a href=#updated-on-2024/01/15-16:09:31>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/15-20:21:16>back to top</a>)</p>
 
 ## 小目标
 
@@ -247,12 +247,17 @@
 |**2023-03-22**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809](http://arxiv.org/abs/2212.02809)|null|
 |**2022-12-02**|**UIU-Net: U-Net in U-Net for Infrared Small Object Detection**|Xin Wu et.al.|[2212.00968](http://arxiv.org/abs/2212.00968)|**[link](https://github.com/danfenghong/ieee_tip_uiu-net)**|
 
-<p align=right>(<a href=#updated-on-2024/01/15-16:09:31>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/15-20:21:16>back to top</a>)</p>
 
 ## 注意力机制
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709](http://arxiv.org/abs/2401.06709)|null|
+|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|null|
+|**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
+|**2024-01-11**|**Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs**|Yanying Zhou et.al.|[2401.06226](http://arxiv.org/abs/2401.06226)|null|
+|**2024-01-11**|**Leveraging Frequency Domain Learning in 3D Vessel Segmentation**|Xinyuan Wang et.al.|[2401.06224](http://arxiv.org/abs/2401.06224)|null|
 |**2024-01-11**|**Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation**|Yicong Li et.al.|[2401.05744](http://arxiv.org/abs/2401.05744)|null|
 |**2024-01-11**|**LKCA: Large Kernel Convolutional Attention**|Chenghao Li et.al.|[2401.05738](http://arxiv.org/abs/2401.05738)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633](http://arxiv.org/abs/2401.05633)|**[link](https://github.com/aitical/cfsr)**|
@@ -383,5 +388,5 @@
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302](http://arxiv.org/abs/2312.06302)|null|
 |**2023-12-11**|**Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting**|Haoxin Wang et.al.|[2312.06220](http://arxiv.org/abs/2312.06220)|null|
 
-<p align=right>(<a href=#updated-on-2024/01/15-16:09:31>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-2024/01/15-20:21:16>back to top</a>)</p>
 

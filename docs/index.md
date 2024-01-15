@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/15 16:10:02
+> Updated on 2024/01/15 20:21:16
 
 <details>
   <summary>Table of Contents</summary>
@@ -249,6 +249,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709](http://arxiv.org/abs/2401.06709)|null|
+|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|null|
+|**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
+|**2024-01-11**|**Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs**|Yanying Zhou et.al.|[2401.06226](http://arxiv.org/abs/2401.06226)|null|
+|**2024-01-11**|**Leveraging Frequency Domain Learning in 3D Vessel Segmentation**|Xinyuan Wang et.al.|[2401.06224](http://arxiv.org/abs/2401.06224)|null|
 |**2024-01-11**|**Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation**|Yicong Li et.al.|[2401.05744](http://arxiv.org/abs/2401.05744)|null|
 |**2024-01-11**|**LKCA: Large Kernel Convolutional Attention**|Chenghao Li et.al.|[2401.05738](http://arxiv.org/abs/2401.05738)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633](http://arxiv.org/abs/2401.05633)|**[link](https://github.com/aitical/cfsr)**|
