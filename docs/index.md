@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/15 20:21:16
+> Updated on 2024/01/16 08:51:53
 
 <details>
   <summary>Table of Contents</summary>
@@ -266,7 +266,7 @@ layout: default
 |**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872](http://arxiv.org/abs/2401.04872)|null|
 |**2024-01-09**|**T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge**|Mauro Belgiovine et.al.|[2401.04837](http://arxiv.org/abs/2401.04837)|**[link](https://github.com/genesys-neu/t-prime)**|
 |**2024-01-09**|**Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System**|Galib Muhammad Shahriar Himel et.al.|[2401.04746](http://arxiv.org/abs/2401.04746)|null|
-|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|null|
+|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|**[link](https://github.com/opennlplab/lightning-attention)**|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**Gramformer: Learning Crowd Counting via Graph-Modulated Transformer**|Hui Lin et.al.|[2401.03870](http://arxiv.org/abs/2401.03870)|**[link](https://github.com/LoraLinH/Gramformer)**|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
