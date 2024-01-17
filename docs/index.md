@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/16 20:21:02
+> Updated on 2024/01/17 08:52:21
 
 <details>
   <summary>Table of Contents</summary>
@@ -250,7 +250,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709](http://arxiv.org/abs/2401.06709)|null|
-|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|null|
+|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|**[link](https://github.com/linhthi/ts)**|
 |**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
 |**2024-01-11**|**Learning Crowd Behaviors in Navigation with Attention-based Spatial-Temporal Graphs**|Yanying Zhou et.al.|[2401.06226](http://arxiv.org/abs/2401.06226)|null|
 |**2024-01-11**|**Leveraging Frequency Domain Learning in 3D Vessel Segmentation**|Xinyuan Wang et.al.|[2401.06224](http://arxiv.org/abs/2401.06224)|null|
