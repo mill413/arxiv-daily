@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Updated on 2024/01/17 08:52:21
+> Updated on 2024/01/17 20:21:09
 
 <details>
   <summary>Table of Contents</summary>
@@ -212,6 +212,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Robust Tiny Object Detection in Aerial Images amidst Label Noise**|Haoran Zhu et.al.|[2401.08056](http://arxiv.org/abs/2401.08056)|null|
+|**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017](http://arxiv.org/abs/2401.08017)|null|
 |**2024-01-08**|**Dr $^2$ Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105](http://arxiv.org/abs/2401.04105)|null|
 |**2023-12-15**|**Small Bird Detection using YOLOv7 with Test-Time Augmentation**|Kosuke Shigematsu et.al.|[2401.01018](http://arxiv.org/abs/2401.01018)|null|
 |**2023-12-05**|**Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline**|Xiaoqi Zhao et.al.|[2312.02528](http://arxiv.org/abs/2312.02528)|null|
@@ -249,6 +251,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209](http://arxiv.org/abs/2401.08209)|null|
+|**2024-01-16**|**Statistical Test for Attention Map in Vision Transformer**|Tomohiro Shiraishi et.al.|[2401.08169](http://arxiv.org/abs/2401.08169)|**[link](https://github.com/shirara1016/statistical_test_for_vit_attention)**|
+|**2024-01-16**|**CycLight: learning traffic signal cooperation with a cycle-level strategy**|Gengyue Han et.al.|[2401.08121](http://arxiv.org/abs/2401.08121)|null|
+|**2024-01-16**|**Attention-Based CNN-BiLSTM for Sleep State Classification of Spatiotemporal Wide-Field Calcium Imaging Data**|Xiaohui Zhang et.al.|[2401.08098](http://arxiv.org/abs/2401.08098)|null|
+|**2024-01-15**|**PMFSNet: Polarized Multi-scale Feature Self-attention Network For Lightweight Medical Image Segmentation**|Jiahui Zhong et.al.|[2401.07579](http://arxiv.org/abs/2401.07579)|**[link](https://github.com/yykzjh/pmfsnet)**|
+|**2024-01-15**|**Robust Semi-Supervised Learning for Self-learning Open-World Classes**|Wenjuan Xi et.al.|[2401.07551](http://arxiv.org/abs/2401.07551)|null|
+|**2024-01-14**|**Promptformer: Prompted Conformer Transducer for ASR**|Sergio Duarte-Torres et.al.|[2401.07360](http://arxiv.org/abs/2401.07360)|null|
+|**2024-01-14**|**HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval**|Zexuan Qiu et.al.|[2401.07212](http://arxiv.org/abs/2401.07212)|null|
+|**2024-01-13**|**Distance-aware Attention Reshaping: Enhance Generalization of Neural Solver for Large-scale Vehicle Routing Problems**|Yang Wang et.al.|[2401.06979](http://arxiv.org/abs/2401.06979)|null|
+|**2024-01-12**|**Cross-Attention Watermarking of Large Language Models**|Folco Bertini Baldassini et.al.|[2401.06829](http://arxiv.org/abs/2401.06829)|**[link](https://gitlab.com/folbaeni/linguistic-watermark)**|
 |**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709](http://arxiv.org/abs/2401.06709)|null|
 |**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436](http://arxiv.org/abs/2401.06436)|**[link](https://github.com/linhthi/ts)**|
 |**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
@@ -266,7 +278,7 @@ layout: default
 |**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872](http://arxiv.org/abs/2401.04872)|null|
 |**2024-01-09**|**T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge**|Mauro Belgiovine et.al.|[2401.04837](http://arxiv.org/abs/2401.04837)|**[link](https://github.com/genesys-neu/t-prime)**|
 |**2024-01-09**|**Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System**|Galib Muhammad Shahriar Himel et.al.|[2401.04746](http://arxiv.org/abs/2401.04746)|null|
-|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|**[link](https://github.com/opennlplab/lightning-attention)**|
+|**2024-01-15**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|**[link](https://github.com/opennlplab/lightning-attention)**|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907](http://arxiv.org/abs/2401.03907)|null|
 |**2024-01-08**|**Gramformer: Learning Crowd Counting via Graph-Modulated Transformer**|Hui Lin et.al.|[2401.03870](http://arxiv.org/abs/2401.03870)|**[link](https://github.com/LoraLinH/Gramformer)**|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
